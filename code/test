@@ -1,0 +1,9 @@
+product_cost = 100
+massachusetts_tax_rate = 0.0625
+
+tax_amount = product_cost * massachusetts_tax_rate
+total_cost = product_cost + tax_amount
+
+print(f"Product cost: ${product_cost:.2f}")
+print(f"Sales tax (6.25%): ${tax_amount:.2f}")
+print(f"Total cost: ${total_cost:.2f}")
