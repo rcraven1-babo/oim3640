@@ -19,7 +19,7 @@ for p in data['people']:
 import os
 from dotenv import load_dotenv
 
-from openai import OpenAI
+from code.AITESTING import OpenAI
 
 client = OpenAI()  # reads OPENAI_API_KEY from .env
 response = client.chat.completions.create(

@@ -1,0 +1,10 @@
+flask
+openai
+pydantic
+pypdf
+python-docx
+numpy
+python-dotenv
+striprtf
+beautifulsoup4
+stripe
