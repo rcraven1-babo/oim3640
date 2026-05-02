@@ -13,7 +13,7 @@ MAPBOX_TOKEN = os.getenv(
     "MAPBOX_TOKEN",
     "pk.eyJ1IjoicmNyYXZlbiIsImEiOiJjbW8xbHMxbzIwa3BtMnNvZ3V6Z3czc203In0.NW0QYn40eV4fAMPK1Mco_g"
 )
-MBTA_API_KEY = os.getenv("MBTA_API_KEY", "")
+MBTA_API_KEY = os.getenv("MBTA_API_KEY", "1be9a3cc48394870a69f15774a620665")
 
 
 def haversine(lat1, lon1, lat2, lon2):
@@ -46,13 +46,13 @@ def geocode_address(query):
 
 
 def find_nearest_mbta(lat, lon):
+    # Find nearest stop
     url = "https://api-v3.mbta.com/stops"
     params = {
         "filter[latitude]": lat,
         "filter[longitude]": lon,
         "sort": "distance",
         "page[limit]": 1,
-        "include": "routes",
     }
     if MBTA_API_KEY:
         params["api_key"] = MBTA_API_KEY
@@ -70,69 +70,19 @@ def find_nearest_mbta(lat, lon):
     stop_lat = stop_attrs.get("latitude")
     stop_lon = stop_attrs.get("longitude")
     distance_km = haversine(lat, lon, stop_lat, stop_lon)
+
     stop_name = stop_attrs.get("name", "Unknown stop")
     stop_desc = stop_attrs.get("description")
 
-    routes_by_id = {}
-    for item in data.get("included", []):
-        if item.get("type") == "route":
-            attrs = item.get("attributes", {})
-            route_name = attrs.get("short_name") or attrs.get("long_name")
-            routes_by_id[item.get("id")] = route_name
-
+    # Get routes serving this stop
     route_names = []
-    for route_ref in stop.get("relationships", {}).get("route", {}).get("data", []):
-        route_name = routes_by_id.get(route_ref.get("id"))
-        if route_name and route_name not in route_names:
-            route_names.append(route_name)
-
-    return {
-        "name": stop_name,
-        "description": stop_desc,
-        "latitude": stop_lat,
-        "longitude": stop_lon,
-        "distance_km": round(distance_km, 2),
-        "routes": route_names,
-    }
-
-
-@app.route("/", methods=["GET"])
-def index():
-    return render_template("index.html")
-
-
-@app.route("/locate", methods=["POST"])
-def locate():
-    query = request.form.get("place", "").strip()
-    if not query:
-        return render_template("index.html", error="Please enter a place name or address.")
-
     try:
-        location = geocode_address(query)
-    except requests.RequestException:
-        return render_template("index.html", error="Unable to contact the geocoding service. Try again later.")
-
-    if not location:
-        return render_template("index.html", error="Could not find that location. Try a different address.")
-
-    try:
-        stop = find_nearest_mbta(location["latitude"], location["longitude"])
-    except requests.RequestException:
-        return render_template("index.html", error="Unable to contact the MBTA service. Try again later.")
-
-    if not stop:
-        return render_template("index.html", error="No nearby MBTA stops were found.")
-
-    return render_template(
-        "result.html",
-        query=query,
-        user_lat=location["latitude"],
-        user_lon=location["longitude"],
-        place_name=location["place_name"],
-        stop=stop,
-        mapbox_token=MAPBOX_TOKEN,
-    )
-
-
-if __name__ == "__main__":
-    app.run(debug=True)
+        stop_id = stop.get("id")
+        if stop_id:
+            routes_resp = requests.get(
+                "https://api-v3.mbta.com/routes",
+                params={"filter[stop]": stop_id, "api_key": MBTA_API_KEY},
+                timeout=8
+            )
+            routes_resp.raise_for_status()
+            for r in routes_resp.json().get
