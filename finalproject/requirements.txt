@@ -2,6 +2,9 @@ flask
 openai
 pydantic
 pypdf
+pdfplumber
+pdf2image
+pytesseract
 python-docx
 numpy
 python-dotenv

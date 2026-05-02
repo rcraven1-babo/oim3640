@@ -52,26 +52,51 @@ class ParsedResume(BaseModel):
 
 def extract_text_from_pdf(path: str) -> str:
     """
-    Extract raw text from a PDF. If text extraction returns very little content
-    (likely an image-based/scanned PDF), falls back to OCR via Tesseract.
-    Returns empty string on failure.
+    Extract raw text from a PDF. Attempts multiple extraction methods.
+    If text extraction returns very little content (likely an image-based/scanned PDF),
+    falls back to OCR via Tesseract. Returns empty string on failure.
     """
     try:
-        from pypdf import PdfReader
-        reader = PdfReader(path)
-        text = "\n".join(page.extract_text() or "" for page in reader.pages)
-
-        # If we got a reasonable amount of text, return it.
-        # Threshold: a real resume should have at least 200 chars of extractable text.
-        # Below that, the PDF is likely image-based and needs OCR.
+        text = _extract_text_from_pdf_with_pypdf(path)
         if len(text.strip()) >= 200:
             return text
 
-        # Attempt OCR fallback
+        text = _extract_text_from_pdf_with_pdfplumber(path)
+        if len(text.strip()) >= 200:
+            return text
+
         return _ocr_fallback(path)
 
     except Exception as e:
         print(f"PDF extraction failed for {path}: {e}")
+        return ""
+
+
+def _extract_text_from_pdf_with_pypdf(path: str) -> str:
+    try:
+        from pypdf import PdfReader
+        reader = PdfReader(path)
+        return "\n".join(page.extract_text() or "" for page in reader.pages)
+    except Exception as e:
+        print(f"pypdf extraction failed for {path}: {e}")
+        return ""
+
+
+def _extract_text_from_pdf_with_pdfplumber(path: str) -> str:
+    try:
+        import pdfplumber
+    except ImportError:
+        return ""
+
+    try:
+        texts = []
+        with pdfplumber.open(path) as pdf:
+            for page in pdf.pages:
+                page_text = page.extract_text() or ""
+                texts.append(page_text)
+        return "\n".join(texts)
+    except Exception as e:
+        print(f"pdfplumber extraction failed for {path}: {e}")
         return ""
 
 
@@ -116,7 +141,21 @@ def extract_text_from_docx(path: str) -> str:
     try:
         from docx import Document
         doc = Document(path)
-        return "\n".join(p.text for p in doc.paragraphs)
+
+        paragraphs = [p.text for p in doc.paragraphs if p.text.strip()]
+
+        # Also extract text from tables, which many resumes use for layout.
+        for table in doc.tables:
+            for row in table.rows:
+                for cell in row.cells:
+                    cell_text = cell.text.strip()
+                    if cell_text:
+                        paragraphs.append(cell_text)
+
+        result = "\n".join(paragraphs).strip()
+        if not result:
+            print(f"DOCX extraction produced no text for {path}")
+        return result
     except Exception as e:
         print(f"DOCX extraction failed for {path}: {e}")
         return ""

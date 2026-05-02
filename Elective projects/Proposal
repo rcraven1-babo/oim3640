@@ -1,0 +1,19 @@
+# My Project Proposal
+
+**What I'm building:** A poker hand tester that simulates 1,000 poker rounds and reports how often your hand wins against a chosen number of opponents.
+
+**Why I chose this:** I want to learn probability, game simulation, and decision analysis by testing poker hand strength in many trials, so I can understand how likely a hand is to win in real play.
+
+**Core features:**
+- Input a specific poker hand and choose how many opponents are in the game
+- Run 1,000 simulated poker deals against random hands
+- Determine win/tie/loss outcomes for each trial
+- Report win percentage, tie percentage, and loss percentage
+- Summarize results with confidence on how strong the hand is for the chosen player count
+
+**What I don't know yet:**
+- How to efficiently simulate poker hands and evaluate winners correctly
+- Whether to include Texas Hold’em, Omaha, or a simpler 5-card hand format
+- How to represent hand rankings and compare ties properly
+- How to display results clearly for non-technical users
+- Whether to add advanced features like hand suggestion or opponent modeling

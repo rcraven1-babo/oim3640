@@ -1,0 +1,4756 @@
+Iliad Character Analysis Report
+========================================
+
+Character: Hector
+Mentions: 499
+Possible Traits: noble, swift, brave, fierce, wrathful
+Sample contexts:
+  1. ...;300
+When all shall want him, and thyself the power
+To help the Achaians, whatsoe’er thy will;
+When Hector at your heels shall mow you down:
+The Hero-slaughtering Hector...
+  2. ...burn500
+His gates with fire; till I shall hew away
+His hack’d and riven corslet from the breast
+Of Hector, and till numerous Chiefs, his friends,
+Around him, prone in dust, shall bite the ground...
+  3. ...But Hector...
+  4. ...985
+She ceased; her Hector heard intelligent,
+And quick dissolved the council...
+  5. ...995
+Huge Priameian Hector, fierce in arms,
+Led on the Trojans; with whom march’d the most
+And the most valiant, dexterous at...
+
+--------------------
+
+Character: Jove
+Mentions: 482
+Possible Traits: swift, divine, noble, mortal, brave
+Sample contexts:
+  1. ...aia’s host, sent many a soul
+Illustrious into Ades premature,
+And Heroes gave (so stood the will of Jove)5
+To dogs and to all ravening fowls a prey,
+When fierce dispute had separated once
+The noble Chief...
+  2. ...10
+Latona’s son and Jove’s...
+  3. ...ou for a spoil
+And ye return in safety,) take my gifts25
+And loose my child, in honor of the son
+Of Jove, Apollo, archer of the skies...
+  4. ...sult we quick some prophet here
+Or priest, or even interpreter of dreams,75
+(For dreams are also of Jove,) that we may learn
+By what crime we have thus incensed Apollo,
+What broken vow, what hecatomb unpa...
+  5. ...[12]
+Jove-loved Achilles...
+
+--------------------
+
+Character: Achilles
+Mentions: 466
+Possible Traits: swift, divine, noble, brave, fierce
+Sample contexts:
+  1. ...A council is called, in which
+fierce altercation takes place between Agamemnon and Achilles...
+  2. ...Agamemnon, by his heralds, demands
+Brisëis, and Achilles resigns her...
+  3. ...Achilles sing, O Goddess...
+  4. ...)5
+To dogs and to all ravening fowls a prey,
+When fierce dispute had separated once
+The noble Chief Achilles from the son
+Of Atreus, Agamemnon, King of men...
+  5. ...Nine days throughout the camp his arrows flew;
+The tenth, Achilles from all parts convened65
+The host in council...
+
+--------------------
+
+Character: Troy
+Mentions: 365
+Possible Traits: swift, brave, noble, proud, divine
+Sample contexts:
+  1. ...He has given us the Tale of Troy divine in smooth
+verse, generally in correct and elegant language, and in diction often highly
+poet...
+  2. ...however, a pleasing though a melancholy opportunity of tracing his
+recent footsteps in the Field of Troy, and in the Palace of Ithaca...
+  3. ...It was therefore with much
+less surprise than regret, that I saw him relinquish the “Tale of Troy Divine...
+  4. ...kill in prophecy, a gift85
+Conferred by Phœbus on him, had advanced
+To be conductor of the fleet to Troy;
+He, prudent, them admonishing, replied...
+  5. ...But send thou back this Virgin to her God,
+And when Jove’s favor shall have given us Troy,
+A threefold, fourfold share shall then be thine...
+
+--------------------
+
+Character: Greeks
+Mentions: 263
+Possible Traits: swift, fierce, noble, wrathful, brave
+Sample contexts:
+  1. ...we have taken, hath already passed
+In distribution, and it were unjust155
+To gather it from all the Greeks again...
+  2. ...valiant as thou art,345
+Seize not the maid, his portion from the Greeks,
+But leave her his; nor thou, Achilles, strive
+With our imperial Chief; for never King
+Had equal ho...
+  3. ...To whom the sovereign of the Greeks replied,
+The son of Atreus...
+  4. ...Just distribution made among the Greeks,
+The son of Atreus for his lot received
+Blooming Chrysëis...
+  5. ...Meantime at thy fleet520
+Abiding, let thy wrath against the Greeks
+Still burn, and altogether cease from war...
+
+--------------------
+
+Character: Trojans
+Mentions: 247
+Possible Traits: swift, brave, fierce, noble, proud
+Sample contexts:
+  1. ...and taunt injurious, whose complaint
+Sounds daily in the ears of all the Gods,640
+That I assist the Trojans; but depart,
+Lest she observe thee; my concern shall be
+How best I may perform thy full desire...
+  2. ...For toils and agonies to Greeks
+And Trojans both, in many a bloody field
+To be endured, the Thunderer yet ordain’d...
+  3. ...ly150
+For every ten, a man, to fill us wine;
+So far the Achaians, in my thought, surpass
+The native Trojans...
+  4. ...And now from Jove, with heavy tidings charged,
+Wind-footed Iris to the Trojans came...
+  5. ...995
+Huge Priameian Hector, fierce in arms,
+Led on the Trojans; with whom march’d the most
+And the most valiant, dexterous at the spear...
+
+--------------------
+
+Character: Gods
+Mentions: 239
+Possible Traits: mortal, divine, swift, brave, fierce
+Sample contexts:
+  1. ...Ye gallant Chiefs, and ye their gallant host,
+(So may the Gods who in Olympus dwell
+Give Priam’s treasures to you for a spoil
+And ye return in safety,) take my gi...
+  2. ...[19]
+Who hears the Gods, the Gods hear also him...
+  3. ...well-pleased return’d,
+And in the mansion of Jove Ægis[20]-armed
+Arriving, mingled with her kindred Gods...
+  4. ...If the eternal Gods have made him brave,365
+Derives he thence a privilege to rail...
+  5. ...Ye heralds, messengers of Gods and men,420
+Hail, and draw near...
+
+--------------------
+
+Character: Chief
+Mentions: 232
+Possible Traits: brave, noble, swift, divine, strong
+Sample contexts:
+  1. ...f Jove)5
+To dogs and to all ravening fowls a prey,
+When fierce dispute had separated once
+The noble Chief Achilles from the son
+Of Atreus, Agamemnon, King of men...
+  2. ...Ye gallant Chiefs, and ye their gallant host,
+(So may the Gods who in Olympus dwell
+Give Priam’s treasures to you fo...
+  3. ...en the troops have taken arms,280
+Hast dared to take thine also; never thou
+Associate with Achaia’s Chiefs, to form
+The secret ambush...
+  4. ...exation-stung, shall tear thee with remorse,305
+That thou hast scorn’d, as he were nothing worth,
+A Chief, the soul and bulwark of your cause...
+  5. ...Godlike son
+Of Ægeus, mighty Theseus; men renown’d
+For force superior to the race of man,330
+Brave Chiefs they were, and with brave foes they fought,
+With the rude dwellers on the mountain-heights
+The Cen...
+
+--------------------
+
+Character: King
+Mentions: 195
+Possible Traits: divine, noble, beautiful, swift, brave
+Sample contexts:
+  1. ...When fierce dispute had separated once
+The noble Chief Achilles from the son
+Of Atreus, Agamemnon, King of men...
+  2. ...[1] For he, incensed
+Against the King, a foul contagion raised
+In all the host, and multitudes destroy’d,
+For that the son of Atreus had...
+  3. ...Forlorn he roamed the ocean’s sounding shore,
+And, solitary, with much prayer his King
+Bright-hair’d Latona’s son, Phœbus, implored...
+  4. ...Wouldst thou learn from me
+What cause hath moved Apollo to this wrath,90
+The shaft-arm’d King...
+  5. ...Wo to the man who shall provoke the King
+For if, to-day, he smother close his wrath,
+He harbors still the vengeance, and in time
+Performs it...
+
+--------------------
+
+Character: Agamemnon
+Mentions: 194
+Possible Traits: noble, swift, strong, skilled, fierce
+Sample contexts:
+  1. ...A council is called, in which
+fierce altercation takes place between Agamemnon and Achilles...
+  2. ...Agamemnon, by his heralds, demands
+Brisëis, and Achilles resigns her...
+  3. ...wls a prey,
+When fierce dispute had separated once
+The noble Chief Achilles from the son
+Of Atreus, Agamemnon, King of men...
+  4. ...breathe,
+And see the light of day, shall in this camp
+Oppress thee; no, not even if thou name
+Him, Agamemnon, sovereign o’er us all...
+  5. ...Nor vow nor hecatomb unpaid on us
+He charges, but the wrong done to his priest
+Whom Agamemnon slighted when he sought
+His daughter’s freedom, and his gifts refused...
+
+--------------------
+
+Character: Ajax
+Mentions: 191
+Possible Traits: swift, brave, noble, divine, strong
+Sample contexts:
+  1. ...Else, if they give me none, I will command
+Thy prize, the prize of Ajax, or the prize170
+It may be of Ulysses to my tent,
+And let the loser chafe...
+  2. ...Go also one
+High in authority, some counsellor,
+Idomeneus, or Ajax, or thyself,
+Thou most untractable of all mankind;180
+And seek by rites of sacrifice and prayer
+To...
+  3. ...First, Nestor with Idomeneus the King,
+Then either Ajax, and the son he call’d
+Of Tydeus, with Ulysses sixth and last,490
+Jove’s peer in wisdom...
+  4. ...Cynus those; from Bessa came the rest,
+From Tarpha, Thronius, and from the brink
+Of loud Boagrius; Ajax them, the swift,
+Son of Oïleus led, not such as he
+From Telamon, big-boned and lofty built,645
+But...
+  5. ...Ajax from Salamis twelve vessels brought,
+And where the Athenian band in phalanx stood
+Marshall’d compac...
+
+--------------------
+
+Character: Patroclus
+Mentions: 183
+Possible Traits: brave, swift, noble, fierce, beautiful
+Sample contexts:
+  1. ...Maintained the war of words; and now, at length,
+(The grand consult dissolved,) Achilles walked385
+(Patroclus and the Myrmidons his steps
+Attending) to his camp and to his fleet...
+  2. ...Go, Patroclus, generous friend...
+  3. ...He ended, nor Patroclus disobey’d,
+But leading beautiful Brisëis forth
+Into their guidance gave her; loth she went435
+From...
+  4. ...chilles, in that day
+When at the ships, in perilous straits, the hosts
+Shall wage fierce battle for Patroclus slain...
+  5. ...[7]
+Patroclus silent sat, and he alone,
+Before him, on Æacides intent,235
+Expecting still when he should cease to...
+
+--------------------
+
+Character: Priam
+Mentions: 164
+Possible Traits: divine, fierce, noble, brave, swift
+Sample contexts:
+  1. ...Ye gallant Chiefs, and ye their gallant host,
+(So may the Gods who in Olympus dwell
+Give Priam’s treasures to you for a spoil
+And ye return in safety,) take my gifts25
+And loose my child, in hon...
+  2. ...Now Priam and his sons may well exult,
+Now all in Ilium shall have joy of heart320
+Abundant, hearing of this...
+  3. ...(It seems but yesterday, or at the most365
+A day or two before) that when the ships
+Wo-fraught for Priam, and the race of Troy,
+At Aulis met, and we beside the fount
+With perfect hecatombs the Gods adored...
+  4. ...go not hence400
+Till Priam’s spacious city be your prize...
+  5. ...That I had ten such coadjutors, wise
+As thou art, and the royal city soon
+Of Priam, with her wealth, should all be ours...
+
+--------------------
+
+Character: Ilium
+Mentions: 149
+Possible Traits: swift, proud, noble, brave, divine
+Sample contexts:
+  1. ...Now Priam and his sons may well exult,
+Now all in Ilium shall have joy of heart320
+Abundant, hearing of this broil, the prime
+Of Greece between, in council...
+  2. ...Bid him arm
+His universal host, for that the time
+When the Achaians shall at length possess
+Wide Ilium, hath arrived...
+  3. ...ids thee arm
+Thy universal host, for that the time35
+When the Achaians shall at length possess
+Wide Ilium, hath arrived...
+  4. ...ids thee arm
+Thy universal host; for that the time80
+When the Achaians shall at length possess
+Wide Ilium, hath arrived...
+  5. ...He promised once,
+And with a nod confirm’d it, that with spoils135
+Of Ilium laden, we should hence return;
+But now, devising ill, he sends me shamed,
+And with diminished numbe...
+
+--------------------
+
+Character: Grecians
+Mentions: 145
+Possible Traits: swift, noble, fierce, strong, proud
+Sample contexts:
+  1. ...[The reader will please observe, that by Achaians, Argives, Danaï, are
+signified Grecians...
+  2. ...Juno the white-armed
+Moved at the sight of Grecians all around
+Dying, imparted to his mind the thought...
+  3. ...Atrides, glorious above all in rank,150
+And as intent on gain as thou art great,
+Whence shall the Grecians give a prize to thee...
+  4. ...,
+Embrace his knees; entreat him that he give
+The host of Troy his succor, and shut fast
+The routed Grecians, prisoners in the fleet,
+That all may find much solace[27] in their King,505
+And that the mighty so...
+  5. ...So Chryses prayed, whom Phœbus heard well-pleased;
+Then prayed the Grecians also, and with meal
+Sprinkling the victims, their retracted necks
+First pierced, then flay’d them;...
+
+--------------------
+
+Character: Trojan
+Mentions: 137
+Possible Traits: swift, brave, noble, fierce, strong
+Sample contexts:
+  1. ...oduced in the
+Iliad, and for the fable of the Judgment of Paris, which was the primary
+cause of the Trojan war, the reader is referred to “Grecian and Roman
+Mythology...
+  2. ...Me thou know’st,
+Troy never wronged; I came not to avenge
+Harm done to me; no Trojan ever drove
+My pastures, steeds or oxen took of mine,190
+Or plunder’d of their fruits the golden fie...
+  3. ...to avenge the wrongs
+By Menelaus and thyself sustain’d,
+On the offending Trojan—service kind,
+But lost on thee, regardless of it all...
+  4. ...I never gain, what Trojan town soe’er
+We ransack, half thy booty...
+  5. ...and taunt injurious, whose complaint
+Sounds daily in the ears of all the Gods,640
+That I assist the Trojans; but depart,
+Lest she observe thee; my concern shall be
+How best I may perform thy full desire...
+
+--------------------
+
+Character: Tr
+Mentions: 136
+Possible Traits: swift, brave, noble, proud, beautiful
+Sample contexts:
+  1. ...Dwight
+
+Editor: Robert Southey
+
+Translator: William Cowper
+
+
+        
+Release date: August 5, 2005 [eBook #16452]
+                Most...
+  2. ...He has given us the Tale of Troy divine in smooth
+verse, generally in correct and elegant language, and in diction often highly
+po...
+  3. ...calamitous depression of his spirits,
+that I was summoned to the house of my inestimable friend the Translator,
+in the month of January, 1794...
+  4. ...however, a pleasing though a melancholy opportunity of tracing his
+recent footsteps in the Field of Troy, and in the Palace of Ithaca...
+  5. ...Cowper’s
+Translation in the Preface, and occasionally pointed out its merits in the
+Notes, I was careful to pla...
+
+--------------------
+
+Character: Ulysses
+Mentions: 134
+Possible Traits: brave, wise, swift, divine, noble
+Sample contexts:
+  1. ...d I believe that there are many such, who have occasionally tried their
+own strength in this bow of Ulysses...
+  2. ...se, if they give me none, I will command
+Thy prize, the prize of Ajax, or the prize170
+It may be of Ulysses to my tent,
+And let the loser chafe...
+  3. ...He sent on board the Hecatomb:[24] he placed390
+Chrysëis with the blooming cheeks, himself,
+And to Ulysses gave the freight in charge...
+  4. ...Meantime Ulysses came
+To Chrysa with the Hecatomb in charge...
+  5. ...Her Ulysses led
+Toward the altar, gave her to the arms
+Of her own father, and him thus address’d...
+
+--------------------
+
+Character: Juno
+Mentions: 127
+Possible Traits: noble, swift, strong, beautiful
+Sample contexts:
+  1. ...Juno the white-armed
+Moved at the sight of Grecians all around
+Dying, imparted to his mind the thought...
+  2. ...Down sent by Juno, to whom both alike
+Were dear, and who alike watched over both,245
+Pallas descended...
+  3. ...Juno the white-arm’d alike
+To him and thee propitious, bade me down:
+Restrain thy wrath...
+  4. ...For I, not seldom, in my father’s hall
+Have heard thee boasting, how when once the Gods,490
+With Juno, Neptune, Pallas at their head,
+Conspired to bind the Thunderer, thou didst loose
+His bands, O Godd...
+  5. ...Hard task and full of strife
+Thou hast enjoined me; Juno will not spare
+For gibe and taunt injurious, whose complaint
+Sounds daily in the ears of all the Go...
+
+--------------------
+
+Character: Greece
+Mentions: 126
+Possible Traits: swift, brave, fierce, noble, divine
+Sample contexts:
+  1. ...His supplication was at large to all
+The host of Greece, but most of all to two,20
+The sons of Atreus, highest in command...
+  2. ...what calamity hath fall’n on Greece...
+  3. ...ll exult,
+Now all in Ilium shall have joy of heart320
+Abundant, hearing of this broil, the prime
+Of Greece between, in council and in arms...
+  4. ...His arrows swept
+The whole wide camp of Greece, till at the last475
+A Seer, by Phœbus taught, explain’d the cause...
+  5. ...595
+Thus reaching soon the spacious camp of Greece,
+Their galley they updrew sheer o’er the sands
+From the rude surge remote, then propp’d her sides
+W...
+
+--------------------
+
+Character: Apollo
+Mentions: 126
+Possible Traits: divine, beautiful, swift
+Sample contexts:
+  1. ...a spoil
+And ye return in safety,) take my gifts25
+And loose my child, in honor of the son
+Of Jove, Apollo, archer of the skies...
+  2. ...y power45
+Encirclest Chrysa, and who reign’st supreme
+In Tenedos and Cilla the divine,
+Sminthian[5] Apollo...
+  3. ...r of dreams,75
+(For dreams are also of Jove,) that we may learn
+By what crime we have thus incensed Apollo,
+What broken vow, what hecatomb unpaid
+He charges on us, and if soothed with steam
+Of lambs or goat...
+  4. ...Wouldst thou learn from me
+What cause hath moved Apollo to this wrath,90
+The shaft-arm’d King...
+  5. ...By the son of Jove,
+Apollo, whom thou, Calchas, seek’st in prayer
+Made for the Danaï, and who thy soul105
+Fills with futurity,...
+
+--------------------
+
+Character: Thou
+Mentions: 124
+Possible Traits: swift, strong, divine, wise, brave
+Sample contexts:
+  1. ...ongue no note
+Of grateful sound to me, was ever heard;
+Ill tidings are thy joy, and tidings glad130
+Thou tell’st not, or thy words come not to pass...
+  2. ...Go also one
+High in authority, some counsellor,
+Idomeneus, or Ajax, or thyself,
+Thou most untractable of all mankind;180
+And seek by rites of sacrifice and prayer
+To appease Apollo on...
+  3. ...Thou shalt receive,
+Some future day, thrice told, thy present loss
+For this day’s wrong...
+  4. ...Thou never, when the troops have taken arms,280
+Hast dared to take thine also; never thou
+Associate with...
+  5. ...Thou, Agamemnon...
+
+--------------------
+
+Character: Diomede
+Mentions: 120
+Possible Traits: brave, swift, fierce, mortal, proud
+Sample contexts:
+  1. ...thine,
+Maseta, and the dwellers on thy coast,
+Wave-worn Eïonæ; these all obeyed
+The dauntless Hero Diomede, whom served
+Sthenelus, son of Capaneus, a Chief685
+Of deathless fame, his second in command,
+And g...
+  2. ...But Diomede controll’d them all, and him
+Twice forty sable ships their leader own’d...
+  3. ...He ceased, and ranging still along the line,
+The son of Tydeus, Diomede, perceived,
+Heroic Chief, by chariots all around435
+Environ’d, and by steeds, at side of whom
+Stood...
+  4. ...Diomede is extraordinarily distinguished...
+  5. ...Then Athenæan Pallas on the son
+Of Tydeus,[1] Diomede, new force conferr’d
+And daring courage, that the Argives all
+He might surpass, and deathless fame...
+
+--------------------
+
+Character: Homer
+Mentions: 117
+Possible Traits: wise, divine, brave, beautiful
+Sample contexts:
+  1. ...argin-left: auto;
+        margin-right: auto;
+        }The Project Gutenberg eBook of The Iliad, by Homer
+
+body {
+    text-align: justify
+    }
+@media screen {
+    body {
+        margin-left: 20%;...
+  2. ...}
+a:hover {
+    color: red
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Project Gutenberg eBook of The Iliad of Homer
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the...
+  3. ...Title: The Iliad of Homer
+
+Author: Homer
+
+Annotator: M...
+  4. ...Whether a translation of Homer may be best executed in blank verse or
+in rhyme, is a question in the decision of which no man can...
+  5. ...Hence it has happened,
+that although the public have long been in possession of an English Homer
+by a poet whose writings have done immortal honor to his country, the
+demand of a new one, and espe...
+
+--------------------
+
+Character: Pallas
+Mentions: 117
+Possible Traits: swift, strong, noble, proud, wrathful
+Sample contexts:
+  1. ...Down sent by Juno, to whom both alike
+Were dear, and who alike watched over both,245
+Pallas descended...
+  2. ...ce
+Of his broad hand impressing, sent the blade270
+Home to its rest, nor would the counsel scorn
+Of Pallas...
+  3. ...eldom, in my father’s hall
+Have heard thee boasting, how when once the Gods,490
+With Juno, Neptune, Pallas at their head,
+Conspired to bind the Thunderer, thou didst loose
+His bands, O Goddess...
+  4. ...hen baffled Fate had the Achaians seen
+Returning premature, but Juno thus,
+With admonition quick to Pallas spake...
+  5. ...Thou passest all Achaia’s sons
+In consultation; would to Jove our Sire,445
+To Athenæan Pallas, and Apollo...
+
+--------------------
+
+Character: Menelaus
+Mentions: 114
+Possible Traits: brave, noble, beautiful, fierce, swift
+Sample contexts:
+  1. ...to avenge the wrongs
+By Menelaus and thyself sustain’d,
+On the offending Trojan—service kind,
+But lost on thee, regardless of it all...
+  2. ...Menelaus went,
+Heroic Chief...
+  3. ...ilus,710
+And from the towers of Helos, at whose foot
+The surf of Ocean falls, came sixty barks
+With Menelaus...
+  4. ...Menelaus accepts it...
+  5. ...Him, striding haughtily his host before25
+When Menelaus saw, such joy he felt
+As hunger-pinch’d the lion feels, by chance
+Conducted to some carcase huge, w...
+
+--------------------
+
+Character: God
+Mentions: 112
+Possible Traits: divine, mortal, swift, noble, strong
+Sample contexts:
+  1. ...Achilles sing, O Goddess...
+  2. ...glorious to redeem
+His daughter, and his hands charged with the wreath
+And golden sceptre[2] of the God shaft-arm’d...
+  3. ...Ye gallant Chiefs, and ye their gallant host,
+(So may the Gods who in Olympus dwell
+Give Priam’s treasures to you for a spoil
+And ye return in safety,) take my g...
+  4. ...these hollow barks
+I find thee not now lingering, or henceforth
+Returning, lest the garland of thy God
+And his bright sceptre should avail thee nought...
+  5. ...[4]
+God of the silver bow, who with thy power45
+Encirclest Chrysa, and who reign’st supreme
+In Tenedos and...
+
+--------------------
+
+Character: Grecian
+Mentions: 110
+Possible Traits: swift, noble, brave, fierce, strong
+Sample contexts:
+  1. ...he English poet are
+so much indebted both for their dignity and variety, that he chiefly copies
+the Grecian...
+  2. ...avors the formation
+of such words almost as much as that of the Greek, it happens sometimes,
+that a Grecian compound either cannot be rendered in English at all,
+or, at best, but awkwardly...
+  3. ...erse (borrowed from
+Homer) which he inscribed himself, with some little variation, on a bust of
+his Grecian Favorite...
+  4. ...of the Judgment of Paris, which was the primary
+cause of the Trojan war, the reader is referred to “Grecian and Roman
+Mythology...
+  5. ...The book opens with an account of a pestilence that prevailed in the Grecian
+camp, and the cause of it is assigned...
+
+--------------------
+
+Character: Nestor
+Mentions: 108
+Possible Traits: brave, wise, noble
+Sample contexts:
+  1. ...On the other side
+The son of Atreus all impassion’d stood,310
+When the harmonious orator arose
+Nestor, the Pylian oracle, whose lips
+Dropped eloquence—the honey not so sweet...
+  2. ...Ulysses, Nestor, and Agamemnon, harangue the people; and preparation
+is made for battle...
+  3. ...At his head
+The shadow stood, similitude exact
+Of Nestor, son of Neleus; sage, with whom
+In Agamemnon’s thought might none compare...
+  4. ...First, at the ship of Nestor, Pylian King,[3]
+The senior Chiefs for high exploits renown’d65
+He gather’d, whom he prudent thus a...
+  5. ...he stillness of the vacant night
+Approach’d me, semblance close in stature, bulk,
+And air, of noble Nestor...
+
+--------------------
+
+Character: Mars
+Mentions: 107
+Possible Traits: brave, fierce, swift, mortal, noble
+Sample contexts:
+  1. ...[7]
+Friends, Grecian Heroes, ministers of Mars...
+  2. ...er glorious;[19] among whom
+Stood Agamemnon “with an eye like Jove’s,
+To threaten or command,” like Mars in girth,575
+And with the port of Neptune...
+  3. ...she, lovely nymph,
+Received by stealth, on Actor’s stately roof,
+The embraces of a God, and bore to Mars
+Twins like himself, Ascalaphus the bold,625
+And bold Iälmenus, expert in arms...
+  4. ...Ajax from Salamis twelve vessels brought,
+And where the Athenian band in phalanx stood
+Marshall’d compact, there station’d he his powers...
+  5. ...rce up-grown to manhood’s lusty prime810
+When he his father’s hoary uncle slew
+Lycimnius, branch of Mars...
+
+--------------------
+
+Character: Shall
+Mentions: 106
+Possible Traits: swift, divine, brave, beautiful
+Sample contexts:
+  1. ...But me no fraud
+Shall overreach, or art persuade, of thine...
+  2. ...But this concern
+Shall be adjusted at convenient time...
+  3. ...ught,
+With the rude dwellers on the mountain-heights
+The Centaurs,[23] whom with havoc such as fame
+Shall never cease to celebrate, they slew...
+  4. ...Or if it please thee, put me to the proof380
+Before this whole assembly, and my spear
+Shall stream that moment, purpled with thy blood...
+  5. ...therefore, Jove,
+Supreme in wisdom, honor him, and give625
+Success to Troy, till all Achaia’s sons
+Shall yield him honor more than he hath lost...
+
+--------------------
+
+Character: Peleus
+Mentions: 99
+Possible Traits: swift, noble, divine, mortal, brave
+Sample contexts:
+  1. ...Peleus’ son;
+His wrath pernicious, who ten thousand woes
+Caused to Achaia’s host, sent many a soul
+Illustr...
+  2. ...405
+Haste—Seek ye both the tent of Peleus’ son
+Achilles...
+  3. ...But Peleus’ noble son, the speed-renown’d600
+Achilles, he, his well-built bark beside,
+Consumed his hours, nor...
+  4. ...ireus, Aglæa’s offspring, whom she bore
+To Charopus the King; Nireus in form,
+(The faultless son of Peleus sole except,)
+Loveliest of all the Grecians call’d to Troy...
+  5. ...lles lay; for he was worthier far,
+And more illustrious were the steeds which bore
+The noble son of Peleus; but revenge
+On Agamemnon leader of the host
+Was all his thought, while in his gallant ships945
+Sha...
+
+--------------------
+
+Character: Thy
+Mentions: 98
+Possible Traits: brave, fierce, mortal, noble
+Sample contexts:
+  1. ...[6] If I e’er adorned
+Thy beauteous fane, or on the altar burn’d
+The fat acceptable of bulls or goats,50
+Grant my petition...
+  2. ...Else, if they give me none, I will command
+Thy prize, the prize of Ajax, or the prize170
+It may be of Ulysses to my tent,
+And let the loser chafe...
+  3. ...Thy threatening is to seize200
+Thyself, the just requital of my toils,
+My prize hard-earn’d, by common...
+  4. ...Goddess, although much265
+Exasperate, I dare not disregard
+Thy word, which to obey is always best...
+  5. ...But short and sorrowful the fates ordain515
+Thy life, peculiar trouble must be thine,
+Whom, therefore, oh that I had never borne...
+
+--------------------
+
+Character: Goddess
+Mentions: 87
+Possible Traits: beautiful, strong, swift, noble, fierce
+Sample contexts:
+  1. ...Achilles sing, O Goddess...
+  2. ...Goddess, although much265
+Exasperate, I dare not disregard
+Thy word, which to obey is always best...
+  3. ...350
+Say thou art stronger, and art Goddess-born,
+How then...
+  4. ...Juno, Neptune, Pallas at their head,
+Conspired to bind the Thunderer, thou didst loose
+His bands, O Goddess...
+  5. ...Him answer’d then the Goddess ample-eyed...
+
+--------------------
+
+Character: If
+Mentions: 83
+Possible Traits: brave, divine, swift, fierce
+Sample contexts:
+  1. ...If you are not located in the United States,
+you will have to check the laws of the country where you...
+  2. ...If it be easier, therefore, to throw five balls into the air and to catch them in
+succession, than to...
+  3. ...[6] If I e’er adorned
+Thy beauteous fane, or on the altar burn’d
+The fat acceptable of bulls or goats,50
+G...
+  4. ...140
+Yet, being such, I will return her hence
+If that she go be best...
+  5. ...If the eternal Gods have made him brave,365
+Derives he thence a privilege to rail...
+
+--------------------
+
+Character: Oh
+Mentions: 80
+Possible Traits: swift, fierce, loyal, divine
+Sample contexts:
+  1. ...Oh charged with wine, in steadfastness of face
+Dog unabashed, and yet at heart a deer...
+  2. ...before mankind, before
+The ruthless king, should want of me be felt
+To save the host from havoc[25]—Oh, his thoughts
+Are madness all; intelligence or skill,430
+Forecast or retrospect, how best the camp...
+  3. ...Oh son of Atreus the renown’d in arms
+And in the race...
+  4. ...Oh son of Atreus the renown’d in arms
+And in the race, sleep’st thou...
+  5. ...Oh, beware,
+Lest in resentment of this hasty course230
+Irregular, he let his anger loose...
+
+--------------------
+
+Character: Had
+Mentions: 76
+Possible Traits: swift, brave, divine, mortal
+Sample contexts:
+  1. ...Had this been true, it would by no means have concluded against
+the use of them in an English version o...
+  2. ...Had he been so, Eustathius, an excellent critic and warm admirer of Homer,
+had never affirmed, that som...
+  3. ...m the Greeks,
+But leave her his; nor thou, Achilles, strive
+With our imperial Chief; for never King
+Had equal honor at the hands of Jove
+With Agamemnon, or was throned so high...
+  4. ...She, as her hand
+Had grown there, still importunate, his knees630
+Clasp’d as at first, and thus her suit renew’d...
+  5. ...Had any meaner Argive told his dream,
+We had pronounced it false, and should the more
+Have shrunk from...
+
+--------------------
+
+Character: Thus
+Mentions: 74
+Possible Traits: mortal, divine
+Sample contexts:
+  1. ...Thus they long time in opposition fierce
+Maintained the war of words; and now, at length,
+(The grand con...
+  2. ...400
+Thus was the camp employed; nor ceased the while
+The son of Atreus from his threats denounced
+At first a...
+  3. ...595
+Thus reaching soon the spacious camp of Greece,
+Their galley they updrew sheer o’er the sands
+From the r...
+  4. ...Thus he spake,
+Then vanished suddenly, and I awoke...
+  5. ...Thus, mocking royal Agamemnon, spake
+Thersites...
+
+--------------------
+
+Character: Chiefs
+Mentions: 73
+Possible Traits: brave, swift, noble
+Sample contexts:
+  1. ...Ye gallant Chiefs, and ye their gallant host,
+(So may the Gods who in Olympus dwell
+Give Priam’s treasures to you for...
+  2. ...en the troops have taken arms,280
+Hast dared to take thine also; never thou
+Associate with Achaia’s Chiefs, to form
+The secret ambush...
+  3. ...Godlike son
+Of Ægeus, mighty Theseus; men renown’d
+For force superior to the race of man,330
+Brave Chiefs they were, and with brave foes they fought,
+With the rude dwellers on the mountain-heights
+The Cent...
+  4. ...[1]All night both Gods and Chiefs equestrian slept,
+But not the Sire of all...
+  5. ...First, at the ship of Nestor, Pylian King,[3]
+The senior Chiefs for high exploits renown’d65
+He gather’d, whom he prudent thus address’d...
+
+--------------------
+
+Character: Achaians
+Mentions: 72
+Possible Traits: swift, brave
+Sample contexts:
+  1. ...[The reader will please observe, that by Achaians, Argives, Danaï, are
+signified Grecians...
+  2. ...Let the bold
+Achaians give me competent amends,
+Such as may please me, and it shall be well...
+  3. ...ll be, when Achilles shall be missed;300
+When all shall want him, and thyself the power
+To help the Achaians, whatsoe’er thy will;
+When Hector at your heels shall mow you down:
+The Hero-slaughtering Hector...
+  4. ...e expect
+Some honor at the Thunderer’s hands, but none
+To me he shows, whom Agamemnon, Chief
+Of the Achaians, hath himself disgraced,
+Seizing by violence my just reward...
+  5. ...Bid him arm
+His universal host, for that the time
+When the Achaians shall at length possess
+Wide Ilium, hath arrived...
+
+--------------------
+
+Character: Paris
+Mentions: 70
+Possible Traits: brave, divine, noble
+Sample contexts:
+  1. ...atment of the character of each deity introduced in the
+Iliad, and for the fable of the Judgment of Paris, which was the primary
+cause of the Trojan war, the reader is referred to “Grecian and Roman
+Mythol...
+  2. ...Paris throws out a challenge to the Grecian Princes...
+  3. ...The combat ensues, in which Paris is vanquished, whom yet Venus rescues...
+  4. ...At once, all armed,
+Down from his chariot to the ground he leap’d
+When godlike Paris him in front beheld35
+Conspicuous, his heart smote him, and his fate
+Avoiding, far within the lines...
+  5. ...45
+Curst Paris...
+
+--------------------
+
+Character: Achaia
+Mentions: 70
+Possible Traits: swift, brave, beautiful, divine, wrathful
+Sample contexts:
+  1. ...[The reader will please observe, that by Achaians, Argives, Danaï, are
+signified Grecians...
+  2. ...Peleus’ son;
+His wrath pernicious, who ten thousand woes
+Caused to Achaia’s host, sent many a soul
+Illustrious into Ades premature,
+And Heroes gave (so stood the will of Jov...
+  3. ...With thy shafts avenge
+On the Achaian host thy servant’s tears...
+  4. ...prepared
+To give me succor; for I judge amiss,
+Or he who rules the Argives, the supreme95
+O’er all Achaia’s host, will be incensed...
+  5. ...Let the bold
+Achaians give me competent amends,
+Such as may please me, and it shall be well...
+
+--------------------
+
+Character: While
+Mentions: 70
+Possible Traits: swift, noble, divine, fierce, brave
+Sample contexts:
+  1. ...Hard doom is ours, and not to be endured,
+If feast and merriment must pause in heaven
+While ye such clamor raise tumultuous here
+For man’s unworthy sake: yet thus we speed710
+Ever, when evil...
+  2. ...The little ones lamenting shrill he gorged,380
+While, wheeling o’er his head, with screams the dam
+Bewail’d her darling brood...
+  3. ...Who strongest proves, and conquers, he, of her
+And hers possess’d shall bear them safe away;85
+While ye (peace sworn and firm accord) shall dwell
+At Troy, and these to Argos shall return
+And to Achaia...
+  4. ...Hear me, ye Trojans, and ye Greeks mail-arm’d,100
+While I shall publish in your ears the words
+Of Alexander, author of our strife...
+  5. ...While Menelaus thus the cares engross’d
+Of all those Chiefs, the shielded powers of Troy260
+’Gan move tow...
+
+--------------------
+
+Character: Idomeneus
+Mentions: 69
+Possible Traits: brave, fierce, noble, beautiful
+Sample contexts:
+  1. ...Go also one
+High in authority, some counsellor,
+Idomeneus, or Ajax, or thyself,
+Thou most untractable of all mankind;180
+And seek by rites of sacrifice and p...
+  2. ...First, Nestor with Idomeneus the King,
+Then either Ajax, and the son he call’d
+Of Tydeus, with Ulysses sixth and last,490
+Jove’s...
+  3. ...Idomeneus, spear-practised warrior, led
+The numerous Cretans...
+  4. ...us him obey’d; nor these were all,
+But others from her hundred cities Crete795
+Sent forth, all whom Idomeneus the brave
+Commanded, with Meriones in arms
+Dread as the God of battles blood-imbrued...
+  5. ...Opposite appear
+The Cretans, and among the Chiefs of Crete
+stands, like a God, Idomeneus...
+
+--------------------
+
+Character: Meantime
+Mentions: 69
+Possible Traits: swift, brave
+Sample contexts:
+  1. ...Meantime at thy fleet520
+Abiding, let thy wrath against the Greeks
+Still burn, and altogether cease from war...
+  2. ...Meantime Ulysses came
+To Chrysa with the Hecatomb in charge...
+  3. ...Meantime, though sorrowing for his sake, his troops890
+Yet wanted not a chief; them Medon ruled,
+Whom Rhena...
+  4. ...Meantime, along the margin of the deep
+His soldiers hurled the disk, or bent the bow...
+  5. ...Meantime at him the Greeks
+Discharged full volley, showering thick around
+From bow and sling;[7] when with a...
+
+--------------------
+
+Character: Meriones
+Mentions: 68
+Possible Traits: brave, swift, noble
+Sample contexts:
+  1. ...ut others from her hundred cities Crete795
+Sent forth, all whom Idomeneus the brave
+Commanded, with Meriones in arms
+Dread as the God of battles blood-imbrued...
+  2. ...eneus in front
+Of his bold Cretans stood, stout as a boar295
+The van he occupied, while in the rear
+Meriones harangued the most remote...
+  3. ...Next, by Meriones, Phereclus died,
+Son of Harmonides...
+  4. ...Phereclus fled; Meriones his flight
+Outstripping, deep in his posterior flesh80
+A spear infix’d; sliding beneath the bone
+It...
+  5. ...ighty son,
+With either Ajax in fierce prowess clad;190
+The Cretan next, Idomeneus, with whom
+Uprose Meriones his friend approved,
+Terrible as the man-destroyer Mars...
+
+--------------------
+
+Character: Atreus
+Mentions: 65
+Possible Traits: strong, brave, swift, noble, fierce
+Sample contexts:
+  1. ...ening fowls a prey,
+When fierce dispute had separated once
+The noble Chief Achilles from the son
+Of Atreus, Agamemnon, King of men...
+  2. ...st the King, a foul contagion raised
+In all the host, and multitudes destroy’d,
+For that the son of Atreus had his priest
+Dishonored, Chryses...
+  3. ...His supplication was at large to all
+The host of Greece, but most of all to two,20
+The sons of Atreus, highest in command...
+  4. ...he voice of all was to respect
+The priest, and to accept the bounteous price;
+But so it pleased not Atreus’ mighty son,30
+Who with rude threatenings stern him thence dismiss’d...
+  5. ...He spake and sat; when Atreus’ son arose,
+The Hero Agamemnon, throned supreme...
+
+--------------------
+
+Character: Ah
+Mentions: 63
+Possible Traits: brave
+Sample contexts:
+  1. ...Ah...
+  2. ...Ah...
+  3. ...690
+Ah subtle...
+  4. ...Ah foul dishonor...
+  5. ...Ah, hence away,
+Resistless as thou art and all divine,185
+Nor leave a curse to us, and to our sons...
+
+--------------------
+
+Character: Neptune
+Mentions: 62
+Possible Traits: mortal, swift, divine
+Sample contexts:
+  1. ...I, not seldom, in my father’s hall
+Have heard thee boasting, how when once the Gods,490
+With Juno, Neptune, Pallas at their head,
+Conspired to bind the Thunderer, thou didst loose
+His bands, O Goddess...
+  2. ...[26]495
+For he in prowess and in might surpassed
+His father Neptune, who, enthroned sublime,
+Sits second only to Saturnian Jove,
+Elate with glory and joy...
+  3. ...mnon “with an eye like Jove’s,
+To threaten or command,” like Mars in girth,575
+And with the port of Neptune...
+  4. ...d to the war,
+Nor whom Platæa, nor whom Glissa bred,
+And Hypothebæ,[22] and thy sacred groves610
+To Neptune, dark Onchestus...
+  5. ...The Gods, that mighty labor, from beside
+The Thunderer’s throne with admiration view’d,
+When Neptune, shaker of the shores, began...
+
+--------------------
+
+Character: Olympian
+Mentions: 62
+Possible Traits: swift, divine, mortal, strong
+Sample contexts:
+  1. ...But seeking the Olympian hill snow-crown’d,
+I will myself plead for thee in the ear
+Of Jove, the Thunderer...
+  2. ...High, on the topmost eminence sublime
+Of the deep-fork’d Olympian she perceived
+The Thunderer seated, from the Gods apart...
+  3. ...Else, if my glorious hands
+Once reach thee, the Olympian Powers combined
+To rescue thee, shall interfere in vain...
+  4. ...715
+For the Olympian Thunderer could with ease
+Us from our thrones precipitate, so far
+He reigns to all superior...
+  5. ...Aurora now on the Olympian heights
+Proclaiming stood new day to all in heaven,60
+When he his clear-voiced heralds bade convene...
+
+--------------------
+
+Character: Felton
+Mentions: 59
+Possible Traits: None identified
+Sample contexts:
+  1. ...Felton, Eliot Professor of Greek in Harvard University...
+  2. ...—Felton...
+  3. ...—Felton...
+  4. ...—Felton...
+  5. ...—Felton...
+
+--------------------
+
+Character: Minerva
+Mentions: 58
+Possible Traits: swift, mortal
+Sample contexts:
+  1. ...Startled, he turned,
+And instant knew Minerva...
+  2. ...She spake, nor did Minerva not comply,
+But darting swift from the Olympian heights,195
+Reach’d soon Achaia’s fleet...
+  3. ...Him beside, herald in form,
+Appeared Minerva...
+  4. ...Then Agamemnon and the Kings of Greece
+Dispatchful drew them into order just,
+With whom Minerva azure-eyed advanced,
+The inestimable Ægis on her arm,540
+Immortal, unobnoxious to decay
+A hundred b...
+  5. ...515
+Me, Menelaüs, by Minerva’s aid,
+Hath vanquish’d now, who may hereafter, him...
+
+--------------------
+
+Character: Antilochus
+Mentions: 56
+Possible Traits: brave, swift
+Sample contexts:
+  1. ...And first, Antilochus a Trojan Chief
+Slew Echepolus, from Thalysias sprung,
+Contending valiant in the van of Troy...
+  2. ...But him the son of generous Nestor mark’d
+Antilochus, and to the foremost fight670
+Flew also, fearing lest some dire mischance
+The Prince befalling, at...
+  3. ...and, and spear to spear opposed,
+Stood threatening dreadful onset, when beside675
+The Spartan chief Antilochus appear’d...
+  4. ...charioteer, Mydon the brave,
+Son of Atymnias, turn’d his steeds to flight,
+Full on his elbow-point Antilochus,
+The son of Nestor, dash’d him with a stone...
+  5. ...At once
+Forth sprang Antilochus, and with his sword
+Hew’d deep his temples...
+
+--------------------
+
+Character: Thetis
+Mentions: 55
+Possible Traits: swift, beautiful, deceptive
+Sample contexts:
+  1. ...He makes his complaint to
+Thetis, who undertakes to plead his cause with Jupiter...
+  2. ...To him, with streaming eyes, Thetis replied...
+  3. ...d the East,
+Then all the everlasting Gods to Heaven
+Resorted, with the Thunderer at their head,
+And Thetis, not unmindful of her son,610
+Prom the salt flood emerged, seeking betimes
+Olympus and the boundles...
+  4. ...or Juno him
+Not understood; she, watchful, had observed,
+In consultation close with Jove engaged660
+Thetis, bright-footed daughter of the deep,
+And keen the son of Saturn thus reproved...
+  5. ...Deeply I dread
+Lest Thetis, silver-footed daughter fair
+Of Ocean’s hoary Sovereign, here arrived
+At early dawn to practise on...
+
+--------------------
+
+Character: Sarpedon
+Mentions: 54
+Possible Traits: divine, noble, swift, wrathful, brave
+Sample contexts:
+  1. ...Sarpedon with the noble Glaucus led
+Their warriors forth from farthest Lycia, where
+Xanthus deep-dimpled rol...
+  2. ...He said; then every heart for battle glow’d;
+And thus Sarpedon with rebuke severe
+Upbraiding generous Hector, stern began...
+  3. ...So spake Sarpedon, and his reprimand
+Stung Hector; instant to the ground he leap’d
+All arm’d, and shaking his bright...
+  4. ...thless destiny impell’d
+Tlepolemus, Alcides’ son, a Chief
+Dauntless and huge, against a godlike foe
+Sarpedon...
+  5. ...Sarpedon, leader of the Lycian host,
+Thou trembler...
+
+--------------------
+
+Character: Helen
+Mentions: 53
+Possible Traits: beautiful, noble, brave, swift
+Sample contexts:
+  1. ...billows borne,
+Shall seek again their country, leaving here,
+To be the vaunt of Ilium and her King,
+Helen of Argos, in whose cause the Greeks
+Have numerous perish’d from their home remote...
+  2. ...lows borne,205
+Shall seek again their country, leaving here,
+To be the vaunt of Ilium and her King,
+Helen of Argos, in whose cause the Greeks
+Have numerous perish’d from their home remote...
+  3. ...herefore pant for home, till each
+Possess a Trojan spouse, and from her lips
+Take sweet revenge for Helen’s pangs of heart...
+  4. ...From the monarch’s host
+The royal brother ranged his own apart,
+and panted for revenge of Helen’s wrongs,715
+And of her sighs and tears...
+  5. ...80
+And bid the Grecians sit; then face to face
+Commit us, in the vacant field between,
+To fight for Helen and for all her wealth...
+
+--------------------
+
+Character: Atrides
+Mentions: 52
+Possible Traits: None identified
+Sample contexts:
+  1. ...70
+
+Atrides...
+  2. ...Atrides, glorious above all in rank,150
+And as intent on gain as thou art great,
+Whence shall the Grecians...
+  3. ...d sore perplex’d him, whether forcing wide
+A passage through them, with his blade unsheathed
+To lay Atrides breathless at his foot,240
+Or to command his stormy spirit down...
+  4. ...Atrides, next, bade purify the host;
+The host was purified, as he enjoin’d,395
+And the ablution cast into t...
+  5. ...Atrides...
+
+--------------------
+
+Character: Let
+Mentions: 51
+Possible Traits: brave, swift
+Sample contexts:
+  1. ...Let it be considered too, how merciful
+we are apt to be to unclassical and indifferent language for the...
+  2. ...Let the bold
+Achaians give me competent amends,
+Such as may please me, and it shall be well...
+  3. ...Let no man therefore pant for home, till each
+Possess a Trojan spouse, and from her lips
+Take sweet rev...
+  4. ...Let him dare to lay his hand
+On his own vessel, and he dies the first...
+  5. ...Let each whet well
+His spear, brace well his shield, well feed his brisk
+High-mettled horses, well surv...
+
+--------------------
+
+Character: Ida
+Mentions: 50
+Possible Traits: swift, beautiful
+Sample contexts:
+  1. ...Æneas, (on the hills of Ida him
+The lovely Venus to Anchises bore,1000
+A Goddess by a mortal man embraced)
+Led the Dardanians;...
+  2. ...1005
+Fast by the foot of Ida, where they drank
+The limpid waters of Æsepus, dwelt
+The Trojans of Zeleia...
+  3. ...Jove, Father, who from Ida stretchest forth330
+Thine arm omnipotent, o’erruling all,
+And thou, all-seeing and all-hearing Sun,...
+  4. ...Jove, Father, who on Ida seated, seest
+And rulest all below, glorious in power...
+  5. ...Him on Simoïs’ banks
+His mother bore, when with her parents once
+She came from Ida down to view the flocks,565
+And thence they named him; but his parents’
+He lived not to requite, in...
+
+--------------------
+
+Character: Jupiter
+Mentions: 49
+Possible Traits: None identified
+Sample contexts:
+  1. ...He makes his complaint to
+Thetis, who undertakes to plead his cause with Jupiter...
+  2. ...Thirdly, the
+intercession of Thetis with Jupiter; his promise, unwillingly given, to
+avenge Achilles; and the assembly of the gods, in which the pro...
+  3. ...Jupiter, in pursuance of his purpose to distress the Grecians in answer to
+the prayer of Thetis, deceives A...
+  4. ...430
+Vexation fill’d him; to the spacious heavens
+He look’d, and with a voice of wo exclaim’d—
+Jupiter...
+  5. ...In a Council of the Gods, a dispute arises between Jupiter and Juno,
+which is at last compromised, Jove consenting to dispatch Minerva with
+a charge to incite...
+
+--------------------
+
+Character: Tydeus
+Mentions: 48
+Possible Traits: brave, noble, strong
+Sample contexts:
+  1. ...return, with spear high-poised
+O’er the broad shield, aim’d ever at his neck,
+Or best of all—
+
+Then Tydeus’ son, with spear high-poised above
+The ample shield, stood aiming at his neck...
+  2. ...First, Nestor with Idomeneus the King,
+Then either Ajax, and the son he call’d
+Of Tydeus, with Ulysses sixth and last,490
+Jove’s peer in wisdom...
+  3. ...He ceased, and ranging still along the line,
+The son of Tydeus, Diomede, perceived,
+Heroic Chief, by chariots all around435
+Environ’d, and by steeds, at side of w...
+  4. ...Ah, son of Tydeus, Chief of dauntless heart440
+And of equestrian fame...
+  5. ...So did not Tydeus...
+
+--------------------
+
+Character: Till
+Mentions: 46
+Possible Traits: brave, swift, fierce
+Sample contexts:
+  1. ...go not hence400
+Till Priam’s spacious city be your prize...
+  2. ...Pause there shall be none
+Till night divide us...
+  3. ...Is it your purpose patient here to wait
+Till Troy invade your vessels on the shore
+Of the grey deep, that ye may trial make290
+Of Jove, if he wi...
+  4. ...ght390
+Them yet had reach’d, so recent had the stir
+Arisen in either host; they, therefore, watch’d
+Till the example of some other band
+Marching, should prompt them to begin the fight,
+But Agamemnon, thus...
+  5. ...why wait ye on this distant spot400
+Till others move...
+
+--------------------
+
+Character: Tydides
+Mentions: 45
+Possible Traits: brave, swift
+Sample contexts:
+  1. ...Thenceforth Tydides o’er his ample shield
+Aim’d and still aim’d to pierce him in the neck...
+  2. ...Or better thus—
+
+Tydides, in return, with spear high-poised
+O’er the broad shield, aim’d ever at his neck,
+Or best of all—...
+  3. ...He ended, and his sovereign’s awful voice
+Tydides reverencing, nought replied;
+But thus the son of glorious Capaneus...
+  4. ...He spake, whom with a frowning brow the brave
+Tydides answer’d...
+  5. ...Then his splendid lance20
+Tydides hurl’d; nor ineffectual flew
+The weapon from his hand, but Phegeus pierced
+His paps between, and fo...
+
+--------------------
+
+Character: Vulcan
+Mentions: 45
+Possible Traits: fierce, divine, mortal
+Sample contexts:
+  1. ...But through the courts of Jove the heavenly Powers
+All felt displeasure; when to them arose
+Vulcan, illustrious artist, who with speech
+Conciliatory interposed to sooth705
+His white-armed mother Jun...
+  2. ...720
+So Vulcan, and, upstarting, placed a cup
+Full-charged between his mother’s hands, and said,
+My mother, be adv...
+  3. ...ven rang with laughter inextinguishable
+Peal after peal, such pleasure all conceived740
+At sight of Vulcan in his new employ...
+  4. ...(That sceptre erst
+Vulcan with labor forged, and to the hand
+Consign’d it of the King, Saturnian Jove;
+Jove to the vanquisher...
+  5. ...10
+There lived a man in Troy, Dares his name,
+The priest of Vulcan; rich he was and good,
+The father of two sons, Idæus this,
+That, Phegeus call’d; accomplish’d warri...
+
+--------------------
+
+Character: Iliad
+Mentions: 44
+Possible Traits: None identified
+Sample contexts:
+  1. ...margin-left: auto;
+        margin-right: auto;
+        }The Project Gutenberg eBook of The Iliad, by Homer
+
+body {
+    text-align: justify
+    }
+@media screen {
+    body {
+        margin-left: 20%...
+  2. ...none
+    }
+a:hover {
+    color: red
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Project Gutenberg eBook of The Iliad of Homer
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other part...
+  3. ...Title: The Iliad of Homer
+
+Author: Homer
+
+Annotator: M...
+  4. ...burlesque; an instance of which they will find in the Battle of the
+Frogs and Mice, but none in the Iliad...
+  5. ...Few persons of any consideration are introduced either in the Iliad or
+Odyssey by their own name only, but their patronymic is given also...
+
+--------------------
+
+Character: Argos
+Mentions: 44
+Possible Traits: beautiful, brave
+Sample contexts:
+  1. ...From her native country far,
+In Argos, in my palace, she shall ply
+The loom, and shall be partner of my bed...
+  2. ...h in flocks,
+And rich Thyestes left it to be borne
+By Agamemnon, symbol of his right
+To empire over Argos and her isles)130
+On that he lean’d, and rapid, thus began...
+  3. ...orne,
+Shall seek again their country, leaving here,
+To be the vaunt of Ilium and her King,
+Helen of Argos, in whose cause the Greeks
+Have numerous perish’d from their home remote...
+  4. ...e,205
+Shall seek again their country, leaving here,
+To be the vaunt of Ilium and her King,
+Helen of Argos, in whose cause the Greeks
+Have numerous perish’d from their home remote...
+  5. ...None recollects
+His promise more in steed-famed Argos pledged,345
+Here to abide till Ilium wall’d to heaven
+Should vanquish’d sink, and all her wealth be...
+
+--------------------
+
+Character: Thunderer
+Mentions: 44
+Possible Traits: strong
+Sample contexts:
+  1. ...other, though ordain’d so soon to die,440
+I am thy son, I might with cause expect
+Some honor at the Thunderer’s hands, but none
+To me he shows, whom Agamemnon, Chief
+Of the Achaians, hath himself disgraced,
+Se...
+  2. ...oasting, how when once the Gods,490
+With Juno, Neptune, Pallas at their head,
+Conspired to bind the Thunderer, thou didst loose
+His bands, O Goddess...
+  3. ...But seeking the Olympian hill snow-crown’d,
+I will myself plead for thee in the ear
+Of Jove, the Thunderer...
+  4. ...e twelfth fair morrow streak’d the East,
+Then all the everlasting Gods to Heaven
+Resorted, with the Thunderer at their head,
+And Thetis, not unmindful of her son,610
+Prom the salt flood emerged, seeking betime...
+  5. ...High, on the topmost eminence sublime
+Of the deep-fork’d Olympian she perceived
+The Thunderer seated, from the Gods apart...
+
+--------------------
+
+Character: Ye
+Mentions: 43
+Possible Traits: swift, brave, noble, mortal, strong
+Sample contexts:
+  1. ...Ye gallant Chiefs, and ye their gallant host,
+(So may the Gods who in Olympus dwell
+Give Priam’s treas...
+  2. ...140
+Yet, being such, I will return her hence
+If that she go be best...
+  3. ...340
+Yet even these would listen and conform
+To my advice in consultation given,
+Which hear ye also; for co...
+  4. ...Ye heralds, messengers of Gods and men,420
+Hail, and draw near...
+  5. ...up
+Full-charged between his mother’s hands, and said,
+My mother, be advised, and, though aggrieved,
+Yet patient; lest I see thee whom I love
+So dear, with stripes chastised before my face,725
+Willing, b...
+
+--------------------
+
+Character: Myrmidons
+Mentions: 43
+Possible Traits: swift, brave
+Sample contexts:
+  1. ...225
+There rule thy Myrmidons...
+  2. ...of words; and now, at length,
+(The grand consult dissolved,) Achilles walked385
+(Patroclus and the Myrmidons his steps
+Attending) to his camp and to his fleet...
+  3. ...sed
+They, sad and slow, beside the barren waste
+Of Ocean, to the galleys and the tents
+Moved of the Myrmidons...
+  4. ...eld
+Trechina, Phthia, and for women fair835
+Distinguish’d, Hellas; known by various names
+Hellenes, Myrmidons, Achæans, them
+In fifty ships embark’d, Achilles ruled...
+  5. ...Now may the warlike Pelaus, hoary Chief,
+Who both with eloquence and wisdom rules
+The Myrmidons, our foul disgrace deplore...
+
+--------------------
+
+Character: Should
+Mentions: 42
+Possible Traits: swift, divine, brave, wise
+Sample contexts:
+  1. ...Should a painter, professing
+to draw the likeness of a beautiful woman, give her more or fewer
+features th...
+  2. ...It were much unmeet145
+That I alone of all the Argive host
+Should want due recompense, whose former prize
+Is elsewhere destined, as ye all perceive...
+  3. ...ollects
+His promise more in steed-famed Argos pledged,345
+Here to abide till Ilium wall’d to heaven
+Should vanquish’d sink, and all her wealth be ours...
+  4. ...Should Paris slay the hero amber-hair’d,
+My brother Menelaüs, Helen’s wealth
+And Helen’s self are his, and...
+  5. ...65
+Yet were it most unmeet that even I
+Should toil in vain; I also boast a birth
+Celestial; Saturn deeply wise, thy Sire,
+Is also mine; our origi...
+
+--------------------
+
+Character: Achaian
+Mentions: 39
+Possible Traits: swift, brave, fierce
+Sample contexts:
+  1. ...[The reader will please observe, that by Achaians, Argives, Danaï, are
+signified Grecians...
+  2. ...With thy shafts avenge
+On the Achaian host thy servant’s tears...
+  3. ...Let the bold
+Achaians give me competent amends,
+Such as may please me, and it shall be well...
+  4. ...ll be, when Achilles shall be missed;300
+When all shall want him, and thyself the power
+To help the Achaians, whatsoe’er thy will;
+When Hector at your heels shall mow you down:
+The Hero-slaughtering Hector...
+  5. ...e expect
+Some honor at the Thunderer’s hands, but none
+To me he shows, whom Agamemnon, Chief
+Of the Achaians, hath himself disgraced,
+Seizing by violence my just reward...
+
+--------------------
+
+Character: Venus
+Mentions: 39
+Possible Traits: beautiful, mortal, divine, swift, brave
+Sample contexts:
+  1. ...Æneas, (on the hills of Ida him
+The lovely Venus to Anchises bore,1000
+A Goddess by a mortal man embraced)
+Led the Dardanians; but not he alone;
+Arc...
+  2. ...The combat ensues, in which Paris is vanquished, whom yet Venus rescues...
+  3. ...Thy lyre, thy locks, thy person, specious gifts
+Of partial Venus, will avail thee nought,
+Once mixt by Menelaus with the dust...
+  4. ...Yet let the gracious gifts uncensured pass
+Of golden Venus; man may not reject75
+The glorious bounty by the Gods bestow’d,
+Nor follows their beneficence our c...
+  5. ...eless force,
+Chok’d him; and now had Menelaus won
+Deathless renown, dragging him off the field,
+But Venus, foam-sprung Goddess, feeling quick
+His peril imminent, snapp’d short the brace445
+Though stubborn,...
+
+--------------------
+
+Character: Hath
+Mentions: 38
+Possible Traits: swift, proud, brave
+Sample contexts:
+  1. ...485
+Haste hence to Heaven, and if thy word or deed
+Hath ever gratified the heart of Jove,
+With earnest suit press him on my behalf...
+  2. ...Agamemnon, King of men,
+Hath sent thy daughter home, with whom we bring545
+A Hecatomb on all our host’s behalf
+To Phœbus, hoping...
+  3. ...But tush,—Achilles lacks290
+Himself the spirit of a man; no gall
+Hath he within him, or his hand long since
+Had stopp’d that mouth,[9] that it should scoff no more...
+  4. ...580
+Tell me, (for ye are are heavenly, and beheld[20]
+A scene, whereof the faint report alone
+Hath reached our ears, remote and ill-informed,)
+Tell me, ye Muses, under whom, beneath
+What Chiefs of r...
+  5. ...515
+Me, Menelaüs, by Minerva’s aid,
+Hath vanquish’d now, who may hereafter, him...
+
+--------------------
+
+Character: Teucer
+Mentions: 38
+Possible Traits: brave
+Sample contexts:
+  1. ...Ulysses with his spear35
+Transfixed Pydites, a Percosian Chief,
+And Teucer Aretaön; Nestor’s pride
+Antilochus, with his bright lance, of life
+Bereft Ablerus, and the royal ar...
+  2. ...Teucer
+performs great exploits, but is disabled by Hector...
+  3. ...attle dread as homicidal Mars,
+Meriones; Evæmon’s son renown’d
+Succeeded, bold Eurypylus; and ninth
+Teucer, wide-straining his impatient bow...
+  4. ..., and whom his arrow struck, he fell;
+Then close as to his mother’s side a child
+For safety creeps, Teucer to Ajax’ side310
+Retired, and Ajax shielded him again...
+  5. ...Whom then slew Teucer first, illustrious Chief...
+
+--------------------
+
+Character: May
+Mentions: 37
+Possible Traits: swift, mortal
+Sample contexts:
+  1. ...that thyself
+May’st witness these affronts which I endure
+From Agamemnon...
+  2. ..., his thoughts
+Are madness all; intelligence or skill,430
+Forecast or retrospect, how best the camp
+May be secured from inroad, none hath he...
+  3. ...Nought, so confirmed,
+May, after, be reversed or render’d vain...
+  4. ...If I find thee, as even now,
+Raving and foaming at the lips again,
+May never man behold Ulysses’ head
+On these my shoulders more, and may my son315
+Prove the begotten of...
+  5. ...now grant me to avenge
+My wrongs on Alexander; now subdue
+The aggressor under me; that men unborn
+May shudder at the thought of faith abused,
+And hospitality with rape repaid...
+
+--------------------
+
+Character: Deep
+Mentions: 37
+Possible Traits: swift
+Sample contexts:
+  1. ...Then wept Achilles, and apart from all,
+With eyes directed to the gloomy Deep
+And arms outstretch’d, his mother suppliant sought...
+  2. ...Deeply I dread
+Lest Thetis, silver-footed daughter fair
+Of Ocean’s hoary Sovereign, here arrived
+At earl...
+  3. ...Commotion shook
+The whole assembly, such as heaves the flood
+Of the Icarian Deep, when South and East
+Burst forth together from the clouds of Jove...
+  4. ...tongue
+Ungovern’d, clamor’d mutinous; a wretch
+Of utterance prompt, but in coarse phrase obscene255
+Deep learn’d alone, with which to slander Kings...
+  5. ...Awe-quell’d he sat, and from his visage mean,
+Deep-sighing, wiped the rheums...
+
+--------------------
+
+Character: Saturnian
+Mentions: 37
+Possible Traits: swift, mortal
+Sample contexts:
+  1. ...e in prowess and in might surpassed
+His father Neptune, who, enthroned sublime,
+Sits second only to Saturnian Jove,
+Elate with glory and joy...
+  2. ...im, clasp’d with her left hand
+His knees, her right beneath his chin she placed,
+And thus the King, Saturnian Jove, implored...
+  3. ...[36]
+What word hath passed thy lips, Saturnian Jove,
+Thou most severe...
+  4. ...(That sceptre erst
+Vulcan with labor forged, and to the hand
+Consign’d it of the King, Saturnian Jove;
+Jove to the vanquisher[5] of Ino’s[6] guard,
+And he to Pelops; Pelops in his turn,125
+To roya...
+  5. ...All eaten thus, the nestlings and the dam,385
+The God who sent him, signalized him too,
+For him Saturnian Jove transform’d to stone...
+
+--------------------
+
+Character: Iris
+Mentions: 36
+Possible Traits: swift, divine, wise
+Sample contexts:
+  1. ...And now from Jove, with heavy tidings charged,
+Wind-footed Iris to the Trojans came...
+  2. ...140
+Iris, ambassadress of heaven, the while,
+To Helen came...
+  3. ...Swift Iris, at her side, her thus address’d...
+  4. ...405
+He said, and Venus with excess of pain
+Bewilder’d went; but Iris tempest-wing’d
+Forth led her through the multitude, oppress’d
+With anguish, her white wrist to livi...
+  5. ...is coursers gold-caparison’d
+Resign’d to Venus; she, with countenance sad,
+The chariot climb’d, and Iris at her side
+The bright reins seizing lash’d the ready steeds...
+
+--------------------
+
+Character: An
+Mentions: 35
+Possible Traits: brave, swift, noble, beautiful, fierce
+Sample contexts:
+  1. ...Title: The Iliad of Homer
+
+Author: Homer
+
+Annotator: M...
+  2. ...For suppose six persons,
+equally qualified for the task, employed to translate the same Ancient
+into their own language, with this rule to guide them...
+  3. ...And if to these labors we add
+others equally requisite, a style in general more elaborate than rhyme r...
+  4. ...And to say truth, were it possible that mere man
+could entitle himself by pre-eminence of any kind to...
+  5. ...And now I have only to regret that my pleasant work is ended...
+
+--------------------
+
+Character: Is
+Mentions: 35
+Possible Traits: wise, beautiful, swift
+Sample contexts:
+  1. ...e much unmeet145
+That I alone of all the Argive host
+Should want due recompense, whose former prize
+Is elsewhere destined, as ye all perceive...
+  2. ...The sound of war
+Is as the voice of destiny to thee...
+  3. ...She, in truth,
+Is gone to Chrysa, and with her we send480
+Propitiation also to the King
+Shaft-arm’d Apollo...
+  4. ...Is it thus at last185
+That the Achaians on the billows borne,
+Shall seek again their country, leaving...
+  5. ...275
+Is gold thy wish...
+
+--------------------
+
+Character: Son
+Mentions: 34
+Possible Traits: brave, swift, wrathful, divine
+Sample contexts:
+  1. ...Loved as his Son, in him I early found
+A Father, such as I will ne’er forget...
+  2. ...en with the brave,
+Aspledon and Orchomenos had sent620
+Their chosen youth; them ruled a noble pair,
+Sons of Astyoche; she, lovely nymph,
+Received by stealth, on Actor’s stately roof,
+The embraces of a Go...
+  3. ...sa came the rest,
+From Tarpha, Thronius, and from the brink
+Of loud Boagrius; Ajax them, the swift,
+Son of Oïleus led, not such as he
+From Telamon, big-boned and lofty built,645
+But small of limb, and of...
+  4. ...ynceus, those760
+Led on, and, for his godlike form renown’d,
+Polyxenus was Chieftain o’er the rest,
+Son of Agasthenes, Augeias’ son...
+  5. ...e Mœonian race,
+(All those who at the foot of Tmolus dwelt,)
+Mesthles and Antiphus, fraternal pair,
+Sons of Pylæmenes commanded, both1060
+Of the Gygæan lake in Lydia born...
+
+--------------------
+
+Character: Among
+Mentions: 33
+Possible Traits: brave, proud
+Sample contexts:
+  1. ...Among others
+he takes the liberty of mentioning Mr...
+  2. ...yful heard,
+And passing thence, the son of Peteos found385
+Menestheus, foremost in equestrian fame,
+Among the brave Athenians; near to him
+Ulysses held his station, and at hand
+The Cephallenians stood, har...
+  3. ...if the concerns of war
+So nearly touch thee, and thou so incline)
+The father of Telemachus, engaged
+Among the foremost Trojans...
+  4. ..., with his bright lance, of life
+Bereft Ablerus, and the royal arm
+Of Agamemnon, Elatus; he dwelt40
+Among the hills of lofty Pedasus,
+On Satnio’s banks, smooth-sliding river pure
+Phylacus fled, whom Leïtus...
+  5. ...My mother, Queen of the well-wooded realm
+Of Hypoplacian Thebes, her hither brought520
+Among his other spoils, he loosed again
+At an inestimable ransom-price,
+But by Diana pierced, she died at...
+
+--------------------
+
+Character: Full
+Mentions: 33
+Possible Traits: brave, noble, swift
+Sample contexts:
+  1. ...720
+So Vulcan, and, upstarting, placed a cup
+Full-charged between his mother’s hands, and said,
+My mother, be advised, and, though aggrieved,
+Yet pat...
+  2. ...Full sure he thought, ignorant of the plan45
+By Jove design’d, that day the last of Troy...
+  3. ...But Agamemnon to Saturnian Jove
+Omnipotent, an ox of the fifth year485
+Full-flesh’d devoted, and the Princes call’d
+Noblest of all the Grecians to his feast...
+  4. ...On the measured ground
+Full near they stood, each brandishing on high
+His massy spear, and each was fiery wroth...
+  5. ...Such Pallas seem’d, and swift descending, dropp’d
+Full in the midst between them...
+
+--------------------
+
+Character: Stood
+Mentions: 32
+Possible Traits: swift, noble, proud
+Sample contexts:
+  1. ...So doubted he, and undecided yet
+Stood drawing forth his falchion huge; when lo...
+  2. ...With a shout
+All flew toward the ships; uprais’d, the dust175
+Stood o’er them; universal was the cry,
+“Now clear the passages, strike down the props,
+Set every vessel...
+  3. ..., with like ease
+Their leaders them on every side reduced
+To martial order glorious;[19] among whom
+Stood Agamemnon “with an eye like Jove’s,
+To threaten or command,” like Mars in girth,575
+And with the po...
+  4. ...nd ill-informed,)
+Tell me, ye Muses, under whom, beneath
+What Chiefs of royal or of humbler note585
+Stood forth the embattled Greeks...
+  5. ...ess by a mortal man embraced)
+Led the Dardanians; but not he alone;
+Archilochus with him and Acamas
+Stood forth, the offspring of Antenor, each,
+And well instructed in all forms of war...
+
+--------------------
+
+Character: Ocean
+Mentions: 32
+Possible Traits: beautiful, strong, divine, mortal, noble
+Sample contexts:
+  1. ...10
+With such harsh message charged he them dismissed
+They, sad and slow, beside the barren waste
+Of Ocean, to the galleys and the tents
+Moved of the Myrmidons...
+  2. ...445
+So prayed he weeping, whom his mother heard
+Within the gulfs of Ocean where she sat
+Beside her ancient sire...
+  3. ...For to the banks of the Oceanus,[28]
+Where Æthiopia holds a feast to Jove,[29]
+He journey’d yesterday, with whom the Gods525
+Went...
+  4. ...Deeply I dread
+Lest Thetis, silver-footed daughter fair
+Of Ocean’s hoary Sovereign, here arrived
+At early dawn to practise on thee, Jove...
+  5. ...ns of every tribe, from camp and fleet110
+Assembling orderly o’er all the plain
+Beside the shore of Ocean...
+
+--------------------
+
+Character: Brave
+Mentions: 31
+Possible Traits: brave, swift, noble
+Sample contexts:
+  1. ...nd the Godlike son
+Of Ægeus, mighty Theseus; men renown’d
+For force superior to the race of man,330
+Brave Chiefs they were, and with brave foes they fought,
+With the rude dwellers on the mountain-heights
+T...
+  2. ...pect765
+Looks toward Elis o’er the curling waves,
+Sent forth their powers with Meges at their head,
+Brave son of Phyleus, warrior dear to Jove...
+  3. ...215
+To vine-famed Phrygia, in my days of youth,
+I journey’d; many Phrygians there I saw,
+Brave horsemen, and expert; they were the powers
+Of Otreus and of Mygdon, godlike Chief,
+And on the banks...
+  4. ...Brave offspring of Lycaon, is there hope
+That thou wilt hear my counsel...
+  5. ...Thou must visit quick
+Brave Menelaus, Atreus’ son, for him
+Some archer, either Lycian or of Troy,
+A dexterous one, hath stricke...
+
+--------------------
+
+Character: Polydamas
+Mentions: 31
+Possible Traits: brave, noble
+Sample contexts:
+  1. ...Opposite, on the rising-ground, appear’d
+The Trojans; them majestic Hector led,
+Noble Polydamas, Æneas raised70
+To godlike honors in all Trojan hearts,
+And Polybus, with whom Antenor’s sons
+Ageno...
+  2. ...70
+Had enter’d there with ease; yet strong desires
+Possess’d the infantry of that emprize,
+And thus Polydamas the ear address’d
+Of dauntless Hector, standing at his side...
+  3. ...So spake Polydamas, whose safe advice100
+Pleased Hector; from his chariot to the ground
+All arm’d he leap’d, nor would...
+  4. ...Wish’d most to burst the barrier and to wage
+The battle at the ships, with Hector march’d
+And with Polydamas, whom follow’d, third,
+Cebriones; for Hector had his steeds
+Consign’d and chariot to inferior care...
+  5. ...The Trojans, thus with their confederate powers,
+The counsel of the accomplish’d Prince pursued,140
+Polydamas, one Chief alone except,
+Asius Hyrtacides...
+
+--------------------
+
+Character: Hero
+Mentions: 30
+Possible Traits: brave, wrathful
+Sample contexts:
+  1. ...ho ten thousand woes
+Caused to Achaia’s host, sent many a soul
+Illustrious into Ades premature,
+And Heroes gave (so stood the will of Jove)5
+To dogs and to all ravening fowls a prey,
+When fierce dispute h...
+  2. ...He spake and sat; when Atreus’ son arose,
+The Hero Agamemnon, throned supreme...
+  3. ...power
+To help the Achaians, whatsoe’er thy will;
+When Hector at your heels shall mow you down:
+The Hero-slaughtering Hector...
+  4. ...[7]
+Friends, Grecian Heroes, ministers of Mars...
+  5. ...Menelaus went,
+Heroic Chief...
+
+--------------------
+
+Character: Haste
+Mentions: 30
+Possible Traits: swift
+Sample contexts:
+  1. ...405
+Haste—Seek ye both the tent of Peleus’ son
+Achilles...
+  2. ...485
+Haste hence to Heaven, and if thy word or deed
+Hath ever gratified the heart of Jove,
+With earnest suit p...
+  3. ...Haste, evil Dream...
+  4. ...Haste therefore, let us arm, if arm we may,[4]
+The warlike sons of Greece; but first, myself
+Will prove t...
+  5. ...100
+Haste, arm we, if we may, the sons of Greece...
+
+--------------------
+
+Character: Have
+Mentions: 30
+Possible Traits: swift, mortal, brave
+Sample contexts:
+  1. ...For I, not seldom, in my father’s hall
+Have heard thee boasting, how when once the Gods,490
+With Juno, Neptune, Pallas at their head,
+Conspired...
+  2. ...Had any meaner Argive told his dream,
+We had pronounced it false, and should the more
+Have shrunk from battle; but the dream is his
+Who boasts himself our highest in command...
+  3. ...try, leaving here,
+To be the vaunt of Ilium and her King,
+Helen of Argos, in whose cause the Greeks
+Have numerous perish’d from their home remote...
+  4. ...try, leaving here,
+To be the vaunt of Ilium and her King,
+Helen of Argos, in whose cause the Greeks
+Have numerous perish’d from their home remote...
+  5. ...all obstruction, stands
+An eminence high-raised, by mortal men
+Call’d Bateia, but the Gods the tomb
+Have named it of Myrinna swift in fight...
+
+--------------------
+
+Character: Saturn
+Mentions: 30
+Possible Traits: swift, strong, deceptive, mortal, divine
+Sample contexts:
+  1. ...e in prowess and in might surpassed
+His father Neptune, who, enthroned sublime,
+Sits second only to Saturnian Jove,
+Elate with glory and joy...
+  2. ...im, clasp’d with her left hand
+His knees, her right beneath his chin she placed,
+And thus the King, Saturnian Jove, implored...
+  3. ...ultation close with Jove engaged660
+Thetis, bright-footed daughter of the deep,
+And keen the son of Saturn thus reproved...
+  4. ...[36]
+What word hath passed thy lips, Saturnian Jove,
+Thou most severe...
+  5. ...(That sceptre erst
+Vulcan with labor forged, and to the hand
+Consign’d it of the King, Saturnian Jove;
+Jove to the vanquisher[5] of Ino’s[6] guard,
+And he to Pelops; Pelops in his turn,125
+To r...
+
+--------------------
+
+Character: Sire
+Mentions: 29
+Possible Traits: divine, noble, proud
+Sample contexts:
+  1. ..., at his approach,655
+Uprose; none sat expectant till he came,
+But all advanced to meet the Eternal Sire...
+  2. ...[1]All night both Gods and Chiefs equestrian slept,
+But not the Sire of all...
+  3. ...an behold Ulysses’ head
+On these my shoulders more, and may my son315
+Prove the begotten of another Sire,
+If I not strip thee to that hide of thine
+As bare as thou wast born, and whip thee hence
+Home to t...
+  4. ...Thou passest all Achaia’s sons
+In consultation; would to Jove our Sire,445
+To Athenæan Pallas, and Apollo...
+  5. ...To whom thus Helen, loveliest of her sex,
+My other Sire...
+
+--------------------
+
+Character: Himself
+Mentions: 29
+Possible Traits: swift, beautiful
+Sample contexts:
+  1. ...But tush,—Achilles lacks290
+Himself the spirit of a man; no gall
+Hath he within him, or his hand long since
+Had stopp’d that mouth,[9]...
+  2. ...with crimson spots
+His back all dappled, by Olympian Jove
+Himself protruded, from the altar’s foot375
+Slipp’d into light, and glided to the tree...
+  3. ...[16]
+But me the son of Saturn, Jove supreme450
+Himself afflicts, who in contentious broils
+Involves me, and in altercation vain...
+  4. ...Then bring ye Priam forth,
+Himself to swear the covenant, (for his sons
+Are faithless) lest the oath of Jove be scorn’d...
+  5. ...525
+Meantime the Archer of the silver bow
+A visionary form prepared; it seem’d
+Himself Æneas, and was arm’d as he...
+
+--------------------
+
+Character: Xanthus
+Mentions: 29
+Possible Traits: swift
+Sample contexts:
+  1. ...In augury, but skill’d in vain, his art
+Saved not, but by Æacides[29] the swift,
+With others in the Xanthus[30] slain, he died...
+  2. ...Sarpedon with the noble Glaucus led
+Their warriors forth from farthest Lycia, where
+Xanthus deep-dimpled rolls his oozy tide...
+  3. ...Xanthus and Thöon he encounter’d next,
+Both sons of Phænops, sons of his old age,
+Who other heir had none o...
+  4. ...Myself am such, and from afar I came;565
+For Lycia lies far distant on the banks
+Of the deep-eddied Xanthus...
+  5. ...reeks
+With their extended spears, the Trojans there
+Prevail’d alternate, on the champain spread
+The Xanthus and the Simoïs between...
+
+--------------------
+
+Character: Lycia
+Mentions: 29
+Possible Traits: brave, divine, wrathful, skilled, fierce
+Sample contexts:
+  1. ...Sarpedon with the noble Glaucus led
+Their warriors forth from farthest Lycia, where
+Xanthus deep-dimpled rolls his oozy tide...
+  2. ...But vow to Lycian Phœbus bow-renown’d
+A hecatomb, all firstlings of the flock,
+To fair Zeleia’s[5] walls once safe r...
+  3. ...He lodged in haste the arrow on the string,
+And vow’d to Lycian Phœbus bow-renown’d
+A hecatomb, all firstlings of the flock,140
+To fair Zeleia’s walls once safe r...
+  4. ...Bid him fly to attend
+The warlike Chieftain Menelaus; him
+Some archer, either Lycian or of Troy,230
+A dexterous one, hath stricken with a shaft
+To his own glory, and to our distress...
+  5. ...Thou must visit quick
+Brave Menelaus, Atreus’ son, for him
+Some archer, either Lycian or of Troy,
+A dexterous one, hath stricken with a shaft
+To his own glory, and to our distress...
+
+--------------------
+
+Character: Thee
+Mentions: 29
+Possible Traits: noble, wise, swift
+Sample contexts:
+  1. ...Thee I acknowledge Sovereign, yet account70
+Myself entitled by a twofold claim
+To veneration both from G...
+  2. ...Thee, Menelaus, then the blessed Gods
+Forgat not; Pallas huntress of the spoil,
+Thy guardian then, baffl...
+  3. ...300
+Thee fighting, feasting, howsoe’er employed,
+I most respect, Idomeneus, of all
+The well-horsed Danäi; fo...
+  4. ...175
+Should Hector so traduce thee as to call
+Thee base and timid, neither Trojan him
+Nor Dardan would believe, nor yet the wives
+Of numerous shielded...
+  5. ...Thee Telamon within his own abode325
+Rear’d although spurious; mount him, in return,
+Although remote, on...
+
+--------------------
+
+Character: Greek
+Mentions: 28
+Possible Traits: swift, brave, fierce, noble, wrathful
+Sample contexts:
+  1. ...Greek {
+    border-bottom: thin dotted gray;
+    font-family: sans-serif
+    }
+a...
+  2. ...Our language
+is indeed less musical than the Greek, and there is no language with which
+I am at all acquainted that is not...
+  3. ...To the
+illustrious Greek I owe the smooth and easy flight of many thousand hours...
+  4. ...though the genius of our language favors the formation
+of such words almost as much as that of the Greek, it happens sometimes,
+that a Grecian compound either cannot be rendered in English at all,
+or, at...
+  5. ...long suspended by the drudgery of translation; and in this view,
+their quarrel with the illustrious Greek will be, doubtless, extended to his
+commentators...
+
+--------------------
+
+Character: Villoisson
+Mentions: 28
+Possible Traits: swift
+Sample contexts:
+  1. ...ent Scholia, and gleaned,
+at the cost of many valuable hours, from the pages of Barnes, Clarke, and
+Villoisson...
+  2. ...are
+respectively found in the editions of Homer by Barnes, Clarke, and Villoisson...
+  3. ...—The scholium by Villoisson
+much countenances this solution...
+  4. ...[The Scholiast in Villoisson calls it
+
+φυσικον
+τινα
+και
+μετριον
+γελωτα
+a natural and moderate laughter...
+  5. ...See Villoisson...
+
+--------------------
+
+Character: Are
+Mentions: 28
+Possible Traits: divine
+Sample contexts:
+  1. ...efore
+The ruthless king, should want of me be felt
+To save the host from havoc[25]—Oh, his thoughts
+Are madness all; intelligence or skill,430
+Forecast or retrospect, how best the camp
+May be secured fro...
+  2. ...renian Nestor in thrice thirty ships
+Had brought his warriors; they from Pylus came,720
+From blithe Arene, and from Thryos, built
+Fast by the fords of Alpheus, and from steep
+And stately Æpy...
+  3. ...Then bring ye Priam forth,
+Himself to swear the covenant, (for his sons
+Are faithless) lest the oath of Jove be scorn’d...
+  4. ...my griefs
+Are infinite, and more than I can bear...
+  5. ...Fear and dread
+Are not for me; Pallas forbids the thought...
+
+--------------------
+
+Character: Around
+Mentions: 28
+Possible Traits: brave, swift
+Sample contexts:
+  1. ...Roared the sable flood
+Around the bark, that ever as she went
+Dash’d wide the brine, and scudded swift away...
+  2. ...away
+His hack’d and riven corslet from the breast
+Of Hector, and till numerous Chiefs, his friends,
+Around him, prone in dust, shall bite the ground...
+  3. ...Then not unmindful of a brother fallen380
+Was Ajax, but, advancing rapid, stalk’d
+Around him, and his broad shield interposed,
+Till brave Alaster and Mecisteus, son
+Of Echius, friends of T...
+  4. ...his breast,155
+His sandals fair to his unsullied feet,
+And fastening by its clasps his purple cloak
+Around him, double and of shaggy pile,
+Seized, next, his sturdy spear headed with brass,
+And issued first...
+  5. ...210
+  Then Diomede a lion’s tawny skin
+Around him wrapp’d, dependent to his heels,
+And, spear in hand, set forth...
+
+--------------------
+
+Character: Come
+Mentions: 27
+Possible Traits: fierce, wrathful
+Sample contexts:
+  1. ...Come—launch we now into the sacred deep
+A bark with lusty rowers well supplied;175
+Then put on board Chr...
+  2. ...But come, my Grecian sisters, soldiers named
+Unfitly, of a sex too soft for war,
+Come, let us homeward: let him here digest285
+What he shall gorge, alone; that he may learn
+If our assis...
+  3. ...Come, sit beside me...
+  4. ...Come then...
+  5. ...Come...
+
+--------------------
+
+Character: Beneath
+Mentions: 27
+Possible Traits: None identified
+Sample contexts:
+  1. ...Him there they found
+Beneath the shadow of his bark reclined,415
+Nor glad at their approach...
+  2. ...and the race of Troy,
+At Aulis met, and we beside the fount
+With perfect hecatombs the Gods adored
+Beneath the plane-tree, from whose root a stream370
+Ran crystal-clear, there we beheld a sign
+Wonderful in...
+  3. ...Beneath Epistrophus and Schedius, took
+Their destined station on Bœotia’s left,
+The brave Phocensians; they...
+  4. ...Beneath the shadow of the sheltering tent
+The chariot stood, while they, the charioteers
+Roam’d here and th...
+  5. ...s
+Typhoëus stretch’d, the fires of angry Jove960
+Down darted, lash the ground, so groan’d the earth
+Beneath them, for they traversed swift the plain...
+
+--------------------
+
+Character: See
+Mentions: 27
+Possible Traits: None identified
+Sample contexts:
+  1. ...405
+Haste—Seek ye both the tent of Peleus’ son
+Achilles...
+  2. ...foremost in command465
+He sued, the sons of Atreus; then, the rest
+All recommended reverence of the Seer,
+And prompt acceptance of his costly gifts...
+  3. ...His arrows swept
+The whole wide camp of Greece, till at the last475
+A Seer, by Phœbus taught, explain’d the cause...
+  4. ...Seek to assuage
+His anger therefore; so shall he with smiles
+Cheer thee, nor thee alone, but all in hea...
+  5. ...Seek the mail-arm’d multitude, by force
+Detain them of thy soothing speech, ere yet
+All launch their oa...
+
+--------------------
+
+Character: Illustrious
+Mentions: 26
+Possible Traits: divine
+Sample contexts:
+  1. ...Peleus’ son;
+His wrath pernicious, who ten thousand woes
+Caused to Achaia’s host, sent many a soul
+Illustrious into Ades premature,
+And Heroes gave (so stood the will of Jove)5
+To dogs and to all ravening fowls...
+  2. ...A thousand acts
+Illustrious, both by well-concerted plans
+And prudent disposition of the host
+Ulysses hath achieved, but this b...
+  3. ...ain Hypereia, from the tops
+Of chalky Titan, and Asteria’s band;
+Them ruled Eurypylus, Evæmon’s son
+Illustrious, whom twice twenty ships obeyed...
+  4. ...Illustrious Alexander his bright arms
+Put on, fair Helen’s paramour...
+  5. ...Illustrious Ajax running to the slain735
+Prepared to strip his arms, but him a shower
+Of glittering-weapons kee...
+
+--------------------
+
+Character: Be
+Mentions: 26
+Possible Traits: swift, noble, brave, beautiful, fierce
+Sample contexts:
+  1. ...Between that revisal and the present a considerable time intervened, and
+the effect of long discontinu...
+  2. ...ether
+our walks were
+
+“on the margin of the land,
+O’er the green summit of the” cliffs, “whose base
+Beats back the roaring surge,”
+“or on the shore
+Of the untillable and barren deep,”
+
+they were always...
+  3. ...To the fleet he came15
+Bearing rich ransom glorious to redeem
+His daughter, and his hands charged with the wreath
+And golden...
+  4. ...Beware, old man...
+  5. ...Begone; hence while thou may’st...
+
+--------------------
+
+Character: Beside
+Mentions: 26
+Possible Traits: swift, noble
+Sample contexts:
+  1. ...445
+So prayed he weeping, whom his mother heard
+Within the gulfs of Ocean where she sat
+Beside her ancient sire...
+  2. ...after troop,
+Grecians of every tribe, from camp and fleet110
+Assembling orderly o’er all the plain
+Beside the shore of Ocean...
+  3. ...The Athenæan Goddess azure-eyed200
+Beside him stood, and thus the Chief bespake...
+  4. ...Beside the chariots stood the unharness’d steeds950
+Cropping the lotus, or at leisure browsed
+On celery wi...
+  5. ...Go thyself—sit thou480
+Beside him—for his sake renounce the skies;
+Watch him, weep for him; till at length his wife
+He deign to m...
+
+--------------------
+
+Character: Argives
+Mentions: 25
+Possible Traits: None identified
+Sample contexts:
+  1. ...[The reader will please observe, that by Achaians, Argives, Danaï, are
+signified Grecians...
+  2. ...peaking, acting, thou wilt stand prepared
+To give me succor; for I judge amiss,
+Or he who rules the Argives, the supreme95
+O’er all Achaia’s host, will be incensed...
+  3. ...A Hecatomb on all our host’s behalf
+To Phœbus, hoping to appease the God
+By whose dread shafts the Argives now expire...
+  4. ...s shoulder; bright with heads of brass
+He shook two spears, and challenged to the fight
+The bravest Argives there, defying all...
+  5. ...95
+Argives...
+
+--------------------
+
+Character: Will
+Mentions: 25
+Possible Traits: swift
+Sample contexts:
+  1. ...Dwight
+
+Editor: Robert Southey
+
+Translator: William Cowper
+
+
+        
+Release date: August 5, 2005 [eBook #16452]
+                Most recently upda...
+  2. ...ead hither by the hand
+Blooming Brisëis, whom if he withhold,
+Not her alone, but other spoil myself
+Will take in person—He shall rue the hour...
+  3. ...rieved,
+Yet patient; lest I see thee whom I love
+So dear, with stripes chastised before my face,725
+Willing, but impotent to give thee aid...
+  4. ...Haste therefore, let us arm, if arm we may,[4]
+The warlike sons of Greece; but first, myself
+Will prove them, recommending instant flight90
+With all our ships, and ye throughout the host
+Dispersed,...
+  5. ...Nine heralds cried aloud—Will ye restrain
+Your clamors, that your heaven-taught Kings may speak...
+
+--------------------
+
+Character: Lest
+Mentions: 25
+Possible Traits: swift
+Sample contexts:
+  1. ...whose complaint
+Sounds daily in the ears of all the Gods,640
+That I assist the Trojans; but depart,
+Lest she observe thee; my concern shall be
+How best I may perform thy full desire...
+  2. ...Deeply I dread
+Lest Thetis, silver-footed daughter fair
+Of Ocean’s hoary Sovereign, here arrived
+At early dawn to pract...
+  3. ...Oh, beware,
+Lest in resentment of this hasty course230
+Irregular, he let his anger loose...
+  4. ...575
+Lest, as with meshes of an ample net,
+At one huge draught the Grecians sweep you all,
+And desolate at on...
+  5. ...225
+But while I put mine armor on, pray all
+In silence to the King Saturnian Jove,
+Lest, while ye pray, the Trojans overhear...
+
+--------------------
+
+Character: Telamonian
+Mentions: 25
+Possible Traits: brave, swift
+Sample contexts:
+  1. ...But of men, the chief
+Was Telamonian Ajax, while wrath-bound940
+Achilles lay; for he was worthier far,
+And more illustrious were the ste...
+  2. ...560
+Then Telamonian Ajax, in his prime
+Of youthful vigor Simöisius slew,[17]
+Son of Anthemion...
+  3. ...Him Telamonian Ajax through his belt
+Wounded, and in his nether bowels deep
+Fix’d his long-shadow’d spear...
+  4. ...[1]5
+First Telamonian Ajax,[2] bulwark firm
+Of the Achaians, broke the Trojan ranks,
+And kindled for the Greeks a gleam o...
+  5. ...He under covert fought of the broad shield305
+Of Telamonian Ajax; Ajax high
+Upraised his shield; the hero from beneath
+Took aim, and whom his arrow struck, he...
+
+--------------------
+
+Character: Glaucus
+Mentions: 25
+Possible Traits: brave
+Sample contexts:
+  1. ...Sarpedon with the noble Glaucus led
+Their warriors forth from farthest Lycia, where
+Xanthus deep-dimpled rolls his oozy tide...
+  2. ...Himself a son begat,
+Glaucus, and he Bellerophon, to whom
+The Gods both manly force and beauty gave...
+  3. ...Then Jove of sober judgment so bereft
+Infatuate Glaucus that with Tydeus’ son
+He barter’d gold for brass, an hundred beeves290
+In value, for the value smal...
+  4. ...Then Glaucus, leader of the Lycian host,15
+Son of Hippolochus, in furious fight
+Iphinoüs son of Dexias assail’d,...
+  5. ...Last came the glorious powers in league with Troy
+Led by Sarpedon; he with Glaucus shared
+His high control, and with the warlike Chief130
+Asteropæus; for of all his host
+Them bravest...
+
+--------------------
+
+Character: Swift
+Mentions: 25
+Possible Traits: swift
+Sample contexts:
+  1. ...Swift Iris, at her side, her thus address’d...
+  2. ...Swift as her pinions waft the dove away925
+They sought the Grecians, ardent to begin:
+Arriving where the...
+  3. ...He said, and to his chariot join’d his steeds
+Swift, brazen-hoof’d, and mailed with wavy gold;
+He put on golden raiment, his bright scourge50
+Of gold r...
+  4. ...d spreading boughs, lest they should seek the prize555
+Themselves in vain, returning ere the night,
+Swift traveller, should have fled before the dawn...
+  5. ...Calling to his foot
+Swift Iris golden-pinion’d, thus he spake...
+
+--------------------
+
+Character: Were
+Mentions: 24
+Possible Traits: brave, divine
+Sample contexts:
+  1. ...Were it possible, therefore, to
+find an exact medium, a manner so close that it should let slip nothing...
+  2. ...Were this true, they would have reason on their side;
+for the author is certainly best entitled to appla...
+  3. ...—Were I to mention one of the happiest
+moments of my life, it might be that which introduced me to the fo...
+  4. ...Down sent by Juno, to whom both alike
+Were dear, and who alike watched over both,245
+Pallas descended...
+  5. ...240
+By no means may we all alike bear sway
+At Ilium; such plurality of Kings
+Were evil...
+
+--------------------
+
+Character: Telamon
+Mentions: 24
+Possible Traits: swift, brave, divine, noble, strong
+Sample contexts:
+  1. ..., and from the brink
+Of loud Boagrius; Ajax them, the swift,
+Son of Oïleus led, not such as he
+From Telamon, big-boned and lofty built,645
+But small of limb, and of an humbler crest;
+Yet he, competitor had n...
+  2. ...But of men, the chief
+Was Telamonian Ajax, while wrath-bound940
+Achilles lay; for he was worthier far,
+And more illustrious were the...
+  3. ...560
+Then Telamonian Ajax, in his prime
+Of youthful vigor Simöisius slew,[17]
+Son of Anthemion...
+  4. ...Him Telamonian Ajax through his belt
+Wounded, and in his nether bowels deep
+Fix’d his long-shadow’d spear...
+  5. ...[1]5
+First Telamonian Ajax,[2] bulwark firm
+Of the Achaians, broke the Trojan ranks,
+And kindled for the Greeks a glea...
+
+--------------------
+
+Character: Lycian
+Mentions: 24
+Possible Traits: brave, divine, skilled, wrathful
+Sample contexts:
+  1. ...But vow to Lycian Phœbus bow-renown’d
+A hecatomb, all firstlings of the flock,
+To fair Zeleia’s[5] walls once safe re...
+  2. ...He lodged in haste the arrow on the string,
+And vow’d to Lycian Phœbus bow-renown’d
+A hecatomb, all firstlings of the flock,140
+To fair Zeleia’s walls once safe re...
+  3. ...Bid him fly to attend
+The warlike Chieftain Menelaus; him
+Some archer, either Lycian or of Troy,230
+A dexterous one, hath stricken with a shaft
+To his own glory, and to our distress...
+  4. ...Thou must visit quick
+Brave Menelaus, Atreus’ son, for him
+Some archer, either Lycian or of Troy,
+A dexterous one, hath stricken with a shaft
+To his own glory, and to our distress...
+  5. ...Yet urge I still my Lycians, and am prompt570
+Myself to fight, although possessing here
+Nought that the Greeks can carry or dr...
+
+--------------------
+
+Character: Footnotes
+Mentions: 24
+Possible Traits: None identified
+Sample contexts:
+  1. ...FOOTNOTES
+
+Footnotes for Book I:
+
+“Latona’s son and Jove’s,” was Apollo, the tutelary deity of the Dorians...
+  2. ...Footnotes for Book II:
+
+The poem now becomes more exciting; the language more animated;
+the descriptions more...
+  3. ...Footnotes for Book III:
+
+The scenes described in this book are exceedingly lifesome...
+  4. ...]
+
+
+
+Footnotes for Book IV:
+
+The goddess of youth is made an attendant at the banquets of the gods,
+to show that t...
+  5. ...]
+
+
+
+Footnotes for Book V:
+
+In each battle there is one prominent person who may be called the hero
+of the day...
+
+--------------------
+
+Character: Foundation
+Mentions: 24
+Possible Traits: None identified
+Sample contexts:
+  1. ...copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you...
+  2. ...The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg el...
+  3. ...The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the...
+  4. ...agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation...
+  5. ...ayments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenber...
+
+--------------------
+
+Character: Go
+Mentions: 23
+Possible Traits: divine, mortal, swift, noble, strong
+Sample contexts:
+  1. ...Achilles sing, O Goddess...
+  2. ...glorious to redeem
+His daughter, and his hands charged with the wreath
+And golden sceptre[2] of the God shaft-arm’d...
+  3. ...Ye gallant Chiefs, and ye their gallant host,
+(So may the Gods who in Olympus dwell
+Give Priam’s treasures to you for a spoil
+And ye return in safety,) take my...
+  4. ...these hollow barks
+I find thee not now lingering, or henceforth
+Returning, lest the garland of thy God
+And his bright sceptre should avail thee nought...
+  5. ...[4]
+God of the silver bow, who with thy power45
+Encirclest Chrysa, and who reign’st supreme
+In Tenedos and...
+
+--------------------
+
+Character: Still
+Mentions: 23
+Possible Traits: swift
+Sample contexts:
+  1. ...Meantime at thy fleet520
+Abiding, let thy wrath against the Greeks
+Still burn, and altogether cease from war...
+  2. ...the soothsayers’ art1015
+Above all other; he his sons forbad
+The bloody fight, but disobedient they
+Still sought it, for their destiny prevailed...
+  3. ...alegon the wise,
+All, elders of the people; warriors erst,
+But idle now through age, yet of a voice
+Still indefatigable as the fly’s[10]175
+Which perch’d among the boughs sends forth at noon
+Through all th...
+  4. ...Yet ancient as I am, I will be seen
+Still mingling with the charioteers, still prompt
+To give them counsel; for to counsel youth380
+Is the ol...
+  5. ...But all her treasures to our house convey’d430
+From Argos, those will I resign, and add
+Still other compensation from my own...
+
+--------------------
+
+Character: Forth
+Mentions: 23
+Possible Traits: None identified
+Sample contexts:
+  1. ...Forth came the mariners, and trod the beach;
+Forth came the victims of Apollo next,540
+And, last, Chrysëi...
+  2. ...Go—take refreshment now that we may march
+Forth to our enemies...
+  3. ...Hippothous and Pilmus, branch of Mars,1025
+Both sons of Lethus the Pelasgian, they,
+Forth from Larissa for her fertile soil
+Far-famed, the spear-expert Pelasgians brought...
+  4. ...385
+Forth sprang the lot of Paris...
+  5. ...[6]
+That bow, the laden brows of a wild goat
+Salacious had supplied; him on a day
+Forth-issuing from his cave, in ambush placed125
+He wounded with an arrow to his breast
+Dispatch’d, and o...
+
+--------------------
+
+Character: Was
+Mentions: 23
+Possible Traits: swift
+Sample contexts:
+  1. ...egs260
+Ill-pair’d; his gibbous shoulders o’er his breast
+Contracted, pinch’d it; to a peak his head
+Was moulded sharp, and sprinkled thin with hair
+Of starveling length, flimsy and soft as down...
+  2. ...780
+From forty ships, Thoas, Andræmon’s son,
+Had landed his Ætolians; for extinct
+Was Meleager, and extinct the house
+Of Oeneus all, nor Oeneus self survived;
+To Thoas therefore had Æto...
+  3. ...But of men, the chief
+Was Telamonian Ajax, while wrath-bound940
+Achilles lay; for he was worthier far,
+And more illustrious w...
+  4. ...Wast thou as timid, tell me, when with those
+Thy loved companions in that famed exploit,
+Thou didst con...
+  5. ...But thy speech420
+Was light as is the wind, and rashly made...
+
+--------------------
+
+Character: Deiphobus
+Mentions: 23
+Possible Traits: brave
+Sample contexts:
+  1. ...Deiphobus
+advances to combat, but is repulsed by Meriones, who losing his
+spear, repairs to his tent for anot...
+  2. ...Deiphobus assails Idomeneus, but, his
+spear glancing over him, kills Hypsenor...
+  3. ...Deiphobus and Idomeneus respectively summon
+their friends to their assistance, and a contest ensues for the b...
+  4. ...So saying he roused the courage of them all190
+Foremost of whom advanced, of Priam’s race
+Deiphobus, ambitious of renown...
+  5. ...t ineffectual; where the hollow wood
+Receives the inserted brass, the quivering beam
+Snapp’d; then, Deiphobus his shield afar
+Advanced before him, trembling at a spear200
+Hurl’d by Meriones...
+
+--------------------
+
+Character: Down
+Mentions: 22
+Possible Traits: swift
+Sample contexts:
+  1. ...[7] The God,
+Down from Olympus with his radiant bow
+And his full quiver o’er his shoulder slung,55
+Marched in his ang...
+  2. ...Down sent by Juno, to whom both alike
+Were dear, and who alike watched over both,245
+Pallas descended...
+  3. ...steps beneath;
+As when in Arimi, where fame reports
+Typhoëus stretch’d, the fires of angry Jove960
+Down darted, lash the ground, so groan’d the earth
+Beneath them, for they traversed swift the plain...
+  4. ...At once, all armed,
+Down from his chariot to the ground he leap’d
+When godlike Paris him in front beheld35
+Conspicuous, his...
+  5. ...85
+The Goddess heard, and what she wish’d, enjoin’d,
+Down-darted swift from the Olympian heights,
+In form a meteor, such as from his hand
+Not seldom Jove dis...
+
+--------------------
+
+Character: Sovereign
+Mentions: 22
+Possible Traits: None identified
+Sample contexts:
+  1. ...To whom the Sovereign of the host replied...
+  2. ...All around
+The Sovereign’s everlasting head his curls650
+Ambrosial shook,[35] and the huge mountain reeled...
+  3. ...Deeply I dread
+Lest Thetis, silver-footed daughter fair
+Of Ocean’s hoary Sovereign, here arrived
+At early dawn to practise on thee, Jove...
+  4. ...tible, the worst
+Of Agamemnon’s followers to the war;
+Presume not then to take the names revered
+Of Sovereigns on thy sordid lips, to asperse
+Their sacred character, and to appoint305
+The Greeks a time when th...
+  5. ...But, Sovereign, be not thou appall’d...
+
+--------------------
+
+Character: Thebes
+Mentions: 22
+Possible Traits: strong
+Sample contexts:
+  1. ...At Thebes, Eëtion’s city we arrived,455
+Smote, sack’d it, and brought all the spoil away...
+  2. ...f the bright-hair’d
+Brisëis, lay, resentful; her obtained
+Not without labor hard, and after sack
+Of Thebes and of Lyrnessus, where he slew845
+Two mighty Chiefs, sons of Evenus both,
+Epistrophus and Mynes, h...
+  3. ...ynices, at what time450
+The host was called together, and the siege
+Was purposed of the sacred city Thebes...
+  4. ...ks
+Arriving of Asopus, there thy sire
+By designation of the Greeks was sent
+Ambassador, and enter’d Thebes...
+  5. ...Led to the city consecrate to Mars
+Our little host, inferior far to theirs,485
+And took seven-gated Thebes, under whose walls
+Our fathers by their own imprudence fell...
+
+--------------------
+
+Character: Asius
+Mentions: 22
+Possible Traits: None identified
+Sample contexts:
+  1. ...plumes, successive on the mead
+Alight at last, and with a clang so loud
+That all the hollow vale of Asius rings;
+In number such from ships and tents effused,
+They cover’d the Scamandrian plain; the earth56...
+  2. ...Priam both,
+Deïphobus and Helenus, the third;
+With them was seen partner of their command;
+The Hero Asius; from Arisba came120
+Asius Hyrtacides, to battle drawn
+From the Selleïs banks by martial steeds
+Hai...
+  3. ...erate powers,
+The counsel of the accomplish’d Prince pursued,140
+Polydamas, one Chief alone except,
+Asius Hyrtacides...
+  4. ...wth fast-founded in the soil;
+So they, sustain’d by conscious valor, saw,170
+Unmoved, high towering Asius on his way,
+Nor fear’d him aught, nor shrank from his approach
+Right on toward the barrier, lifting...
+  5. ...Then Asius, son of Hyrtacus, a groan
+Indignant utter’d; on both thighs he smote
+With disappointment furious, a...
+
+--------------------
+
+Character: Like
+Mentions: 22
+Possible Traits: strong
+Sample contexts:
+  1. ...Nor had his troops, though filled with deep regret,
+No leader; them Podarces led, a Chief
+Like Mars in battle, brother of the slain,
+But younger born, and from Iphiclus sprung865
+Who sprang from...
+  2. ...Like a simple girl
+Came forth Amphimachus with gold bedight,
+But him his trappings from a woful death107...
+  3. ...Meantime the hero Menelaüs made400
+Like preparation, and his arms put on...
+  4. ...Like her disguised the Goddess thus began...
+  5. ...Wherefore stand ye thus aghast,
+Like fawns which wearied after scouring wide285
+The champain, gaze and pant, and can no more...
+
+--------------------
+
+Character: Antenor
+Mentions: 22
+Possible Traits: brave, wise, noble
+Sample contexts:
+  1. ...Led the Dardanians; but not he alone;
+Archilochus with him and Acamas
+Stood forth, the offspring of Antenor, each,
+And well instructed in all forms of war...
+  2. ...Laödice she seem’d,
+Loveliest of all the daughters of the house
+Of Priam, wedded to Antenor’s son,
+King Helicäon...
+  3. ...There Priam, Panthous, Clytius, Lampus sat,170
+Thymoetes, Hicetaon, branch of Mars,
+Antenor and Ucalegon the wise,
+All, elders of the people; warriors erst,
+But idle now through age, yet of a...
+  4. ...Then answer thus, Antenor sage return’d...
+  5. ...First, Priam mounting, backward stretch’d the reins;
+Antenor, next, beside him sat, and through
+The Scæan gate they drove into the plain...
+
+--------------------
+
+Character: Myself
+Mentions: 22
+Possible Traits: swift
+Sample contexts:
+  1. ...Thee I acknowledge Sovereign, yet account70
+Myself entitled by a twofold claim
+To veneration both from Gods and men,
+The daughter of Jove’s sire, and...
+  2. ...We bear the stress, who are but Troy’s allies;
+Myself am such, and from afar I came;565
+For Lycia lies far distant on the banks
+Of the deep-eddied Xanthu...
+  3. ...Yet urge I still my Lycians, and am prompt570
+Myself to fight, although possessing here
+Nought that the Greeks can carry or drive hence...
+  4. ...Myself I boast
+Sprung from Hippolochus; he sent me forth
+To fight for Troy, charging me much and oft255
+Th...
+  5. ...I came
+Myself so purposing into the field
+From the Olympian heights...
+
+--------------------
+
+Character: Automedon
+Mentions: 22
+Possible Traits: swift, brave
+Sample contexts:
+  1. ...Automedon attending held them fast,
+While with sharp steel Achilles from the bone260
+Sliced thin the meat, th...
+  2. ...He bade Automedon his coursers bind
+Speedily to the yoke, for him he loved
+Next to Achilles most, as worthiest found1...
+  3. ...Then led Automedon the fiery steeds
+Swift as wing’d tempests to the chariot-yoke,
+Xanthus and Balius...
+  4. ...In front of all, two Chiefs their station took,
+Patroclus and Automedon; one mind
+In both prevail’d, to combat in the van265
+Of all the Myrmidons...
+  5. ...That mischief soon Automedon redress’d...
+
+--------------------
+
+Character: Soon
+Mentions: 21
+Possible Traits: swift
+Sample contexts:
+  1. ...Soon after my publication of this work, I began to prepare it for a second
+edition, by an accurate revis...
+  2. ...Soon then as Alexander’s fair abode
+They reach’d, her maidens quick their tasks resumed,
+And she to her...
+  3. ...Soon as the Olympian heights, seat of the Gods,425
+They reach’d, wing-footed Iris loosing quick
+The cour...
+  4. ...[23]
+Soon as gore-tainted Mars the approach perceived
+Of Diomede, he left the giant length
+Of Periphas extend...
+  5. ...He ceased, and to the care his son consign’d1070
+Of Pæon; he with drugs of lenient powers,
+Soon heal’d whom immortality secured
+From dissolution...
+
+--------------------
+
+Character: Since
+Mentions: 21
+Possible Traits: None identified
+Sample contexts:
+  1. ...Since, mother, though ordain’d so soon to die,440
+I am thy son, I might with cause expect
+Some honor at t...
+  2. ...Since, Hector, thou hast charged me with a fault,
+And not unjustly, I will answer make,
+And give thou spe...
+  3. ...465
+Since, Hector, truth is thy demand, receive
+True answer...
+  4. ...35
+Since such is Juno’s pleasure and thy own...
+  5. ...Since, Ajax, the immortal powers on thee
+Have bulk pre-eminent and strength bestow’d,340
+With such addres...
+
+--------------------
+
+Character: Gerenian
+Mentions: 21
+Possible Traits: brave
+Sample contexts:
+  1. ...405
+Then Nestor the Gerenian,[13] warrior old,
+Arising, spake; and, by the Gods, he said,
+Ye more resemble children inexpert
+In...
+  2. ...When neither hunger more nor thirst remain’d
+Unsatisfied, Gerenian Nestor spake...
+  3. ...Gerenian Nestor in thrice thirty ships
+Had brought his warriors; they from Pylus came,720
+From blithe Arene,...
+  4. ...All these stood ready to engage in arms
+With warlike Hector, when the ancient King,
+Gerenian Nestor, thus his speech resumed...
+  5. ...Gerenian Nestor, guardian of the Greeks,
+Alone fled not, nor he by choice remain’d,95
+But by his steed retar...
+
+--------------------
+
+Character: Though
+Mentions: 21
+Possible Traits: None identified
+Sample contexts:
+  1. ...Thou wast also there
+Mideia, and thou Nissa; nor be thine
+Though last, Anthedon, a forgotten name...
+  2. ...field,
+But Venus, foam-sprung Goddess, feeling quick
+His peril imminent, snapp’d short the brace445
+Though stubborn, by a slaughter’d[19] ox supplied,
+And the void helmet follow’d as he pull’d...
+  3. ...It pierced his broider’d belt, stood fixt within
+His twisted hauberk, nor the interior quilt,
+Though penetrable least to arrow-points
+And his best guard, withheld it, but it pass’d160
+That also, and t...
+  4. ...Not even Achilles, in the glorious field
+(Though stronger far than thou) this hero meets
+Undaunted...
+  5. ...ds
+And trembled; none dared meet him; till at last
+With inborn courage warm’d, and nought dismayed,
+Though youngest of them all, I undertook
+That contest, and, by Pallas’ aid, prevail’d...
+
+--------------------
+
+Character: Eurypylus
+Mentions: 21
+Possible Traits: brave, noble
+Sample contexts:
+  1. ...[26]825
+Nisyrus, Casus, Crapathus, and Cos
+Where reign’d Eurypylus, with all the isles
+Calydnæ named, under two valiant Chiefs
+Their troops disposed; Phidippus one, a...
+  2. ...from beside900
+The fountain Hypereia, from the tops
+Of chalky Titan, and Asteria’s band;
+Them ruled Eurypylus, Evæmon’s son
+Illustrious, whom twice twenty ships obeyed...
+  3. ...Eurypylus, Evemon’s son, the brave
+Hypsenor slew; Dolopion was his sire,
+Priest of Scamander, reverenced as a...
+  4. ...95
+In vain before Eurypylus he fled;
+He, running, with his falchion lopp’d his arm
+Fast by the shoulder; on the field his hand...
+  5. ...Melanthius at the feet expired
+Of the renown’d Eurypylus, and, flush’d45
+With martial ardor, Menelaus seized
+And took alive Adrastus...
+
+--------------------
+
+Character: Lycians
+Mentions: 21
+Possible Traits: divine, brave
+Sample contexts:
+  1. ...Yet urge I still my Lycians, and am prompt570
+Myself to fight, although possessing here
+Nought that the Greeks can carry or dri...
+  2. ...l,
+Alcander, Halius, Prytanis, and brave
+Noëmon; nor had these sufficed the Chief805
+Of Ithaca, but Lycians more had fallen,
+Had not crest-tossing Hector huge perceived
+The havoc; radiant to the van he flew,...
+  3. ...Hector, and thou, Æneas, since on you
+The Lycians chiefly and ourselves depend,
+For that in difficult emprize ye show
+Most courage; give best counsel...
+  4. ...235
+The Lycians also, for his proper use,
+Large lot assigned him of their richest soil,[15]
+Commodious for the vine...
+  5. ...Trojans and Lycians, and close-warring sons
+Of Dardanus, oh summon all your might,
+Now, now be men...
+
+--------------------
+
+Character: Dolon
+Mentions: 21
+Possible Traits: None identified
+Sample contexts:
+  1. ...There was a certain Trojan, Dolon named,[13]
+Son of Eumedes herald of the Gods,370
+Rich both in gold and brass, but in his form
+Unsig...
+  2. ...That Trojan none shall in that chariot ride
+By those steeds drawn, save Dolon; on my oath390
+I make them thine; enjoy them evermore...
+  3. ...Then Dolon, instant, o’er his shoulder slung
+His bow elastic, wrapp’d himself around
+With a grey wolf-skin, to...
+  4. ...Dolon, suspecting nought, ran swiftly by...
+  5. ...Dolon at the sound
+Stood; for he hoped some Trojan friends at hand
+From Hector sent to bid him back again...
+
+--------------------
+
+Character: Father
+Mentions: 20
+Possible Traits: strong, divine
+Sample contexts:
+  1. ...Loved as his Son, in him I early found
+A Father, such as I will ne’er forget...
+  2. ...Father of all, by all that I have done
+Or said that ever pleased thee, grant my suit...
+  3. ...Almighty Father...
+  4. ...Jove, Father, who from Ida stretchest forth330
+Thine arm omnipotent, o’erruling all,
+And thou, all-seeing and al...
+  5. ...Jove, Father, who on Ida seated, seest
+And rulest all below, glorious in power...
+
+--------------------
+
+Character: Loud
+Mentions: 20
+Possible Traits: fierce
+Sample contexts:
+  1. ...Loud was the din
+Of the assembling thousands; groan’d the earth115
+When down they sat, and murmurs ran a...
+  2. ...He spake; whom all applauded with a shout
+Loud as against some headland cliff the waves
+Roll’d by the stormy South o’er rocks that shoot475
+Afar i...
+  3. ...he flock
+Of some rich man, by thousands in his court
+Penn’d close at milking time, incessant bleat,
+Loud answering all their bleating lambs without,
+Such din from Ilium’s wide-spread host arose...
+  4. ...Then, many a yell was heard, and many a shout535
+Loud intermix’d, the slayer o’er the maim’d
+Exulting, and the field was drench’d with blood...
+  5. ...Then Hector and the van of Troy retired;600
+Loud shout the Grecians; these draw off the dead,
+Those onward march amain, and from the heights
+Of Perg...
+
+--------------------
+
+Character: Although
+Mentions: 20
+Possible Traits: noble
+Sample contexts:
+  1. ...Think not thyself,
+Although thus eloquent, alone exempt
+From obligation not to slander Kings...
+  2. ...He found
+In Eteocles’ palace numerous guests,460
+The sons of Cadmus feasting, among whom,
+Although a solitary stranger, stood
+Thy father without fear, and challenged forth
+Their best to cope with hi...
+  3. ...Thee Telamon within his own abode325
+Rear’d although spurious; mount him, in return,
+Although remote, on glory’s heights again...
+  4. ...615
+Thou shouldst not be thus merciless; the Gods,
+Although more honorable, and in power
+And virtue thy superiors, are themselves
+Yet placable; and if a mortal...
+  5. ...No man of our puny race,
+Although in prime of youth, had with both hands465
+That weight sustain’d; but he the cumberous mass
+Uplifted...
+
+--------------------
+
+Character: Fast
+Mentions: 20
+Possible Traits: swift, brave
+Sample contexts:
+  1. ...his ship and sad
+Possesses, by the force of wintry blasts,
+And by the billows of the troubled deep
+Fast lock’d in port...
+  2. ...ships
+Had brought his warriors; they from Pylus came,720
+From blithe Arene, and from Thryos, built
+Fast by the fords of Alpheus, and from steep
+And stately Æpy...
+  3. ...1005
+Fast by the foot of Ida, where they drank
+The limpid waters of Æsepus, dwelt
+The Trojans of Zeleia...
+  4. ...95
+In vain before Eurypylus he fled;
+He, running, with his falchion lopp’d his arm
+Fast by the shoulder; on the field his hand
+Fell blood-distained, and destiny severe
+With shades of deat...
+  5. ...e slew;
+One with his brazen lance above the pap
+He pierced, and one with his huge falchion smote170
+Fast by the key-bone,[10] from the neck and spine
+His parted shoulder driving at a blow...
+
+--------------------
+
+Character: Mercury
+Mentions: 20
+Possible Traits: None identified
+Sample contexts:
+  1. ...Mars had pined away,
+But that Eëribœa, loveliest nymph,
+His step-mother, in happy hour disclosed
+To Mercury the story of his wrongs;
+He stole the prisoner forth, but with his woes455
+Already worn, languid an...
+  2. ...retired,
+And, in his stead, Ilioneus he pierced,
+Offspring of Phorbas, rich in flocks; and blest
+By Mercury with such abundant wealth
+As other Trojan none, nor child to him590
+His spouse had borne, Ilioneus...
+  3. ...still
+Resolve to spare proud Ilium in despite
+Of me, of Pallas, Goddess of the spoils,265
+Of Juno, Mercury, and the King of fire,
+And will not overturn her lofty towers,
+Nor grant immortal glory to the Gree...
+  4. ...Ascending with her to an upper room,220
+All-bounteous Mercury[7] clandestine there
+Embraced her, who a noble son produced
+Eudorus, swift to run, and bold in figh...
+  5. ...ght
+And Pallas, with the earth-encircling Power45
+Neptune, the Grecian fleet, with whom were join’d
+Mercury, teacher of all useful arts,
+And Vulcan, rolling on all sides his eyes
+Tremendous, but on dispropor...
+
+--------------------
+
+Character: Andromache
+Mentions: 20
+Possible Traits: beautiful
+Sample contexts:
+  1. ...An interview succeeds between Hector
+and Andromache, and Paris, having armed himself in the mean time,
+comes up with Hector at the close of it, when th...
+  2. ...For I must home in haste, that I may see
+My loved Andromache, my infant boy,
+And my domestics, ignorant if e’er
+I shall behold them more, or if my fate450
+Ordai...
+  3. ...But reaching soon his own well-built abode
+He found not fair Andromache; she stood
+Lamenting Hector, with the nurse who bore455
+Her infant, on a turret’s top sublime...
+  4. ...Tell me, ye maidens, whither went from home
+Andromache the fair...
+  5. ...’d
+The Scæan gate, whence he must seek the field,
+There, hasting home again his noble wife
+Met him, Andromache the rich-endow’d
+Fair daughter of Eëtion famed in arms...
+
+--------------------
+
+Character: Olympus
+Mentions: 19
+Possible Traits: None identified
+Sample contexts:
+  1. ...Ye gallant Chiefs, and ye their gallant host,
+(So may the Gods who in Olympus dwell
+Give Priam’s treasures to you for a spoil
+And ye return in safety,) take my gifts25
+And loose...
+  2. ...[7] The God,
+Down from Olympus with his radiant bow
+And his full quiver o’er his shoulder slung,55
+Marched in his anger; shaken as...
+  3. ...t their head,
+And Thetis, not unmindful of her son,610
+Prom the salt flood emerged, seeking betimes
+Olympus and the boundless fields of heaven...
+  4. ...She, at once,
+From bright Olympus plunged into the flood
+Profound, and Jove to his own courts withdrew...
+  5. ...produced
+A foolish daughter petulant, addict
+To evil only and injurious deeds;1040
+There is not in Olympus, save herself,
+Who feels not thy control; but she her will
+Gratifies ever, and reproof from thee
+Fi...
+
+--------------------
+
+Character: Phthia
+Mentions: 19
+Possible Traits: wise, beautiful, brave
+Sample contexts:
+  1. ...rove
+My pastures, steeds or oxen took of mine,190
+Or plunder’d of their fruits the golden fields
+Of Phthia[13] the deep-soil’d...
+  2. ...But I am gone, I and my sable barks210
+(My wiser course) to Phthia, and I judge,
+Scorn’d as I am, that thou shalt hardly glean
+Without me, more than thou shalt soon c...
+  3. ...at all times; yet valor is no ground
+Whereon to boast, it is the gift of Heaven
+Go, get ye back to Phthia, thou and thine...
+  4. ...The warriors of Pelasgian Argos next,
+Of Alus, and Alope, and who held
+Trechina, Phthia, and for women fair835
+Distinguish’d, Hellas; known by various names
+Hellenes, Myrmidons, Achæans,...
+  5. ...At my home
+I have three daughters; let him thence conduct175
+To Phthia, her whom he shall most approve...
+
+--------------------
+
+Character: Well
+Mentions: 19
+Possible Traits: strong, brave
+Sample contexts:
+  1. ...Could I be found so abject as to take
+The measure of my doings at thy lips,
+Well might they call me coward through the camp,370
+A vassal, and a fellow of no worth...
+  2. ...At the ships
+Well-built arriving of Achaia’s host,
+He Agamemnon, son of Atreus, sought...
+  3. ...Well may the Grecians taunt, and laughing loud,50
+Applaud the champion, slow indeed to fight
+And pusilla...
+  4. ...ad his casque
+Adjusted elegant, which, as he moved,
+Its bushy crest waved dreadful; last he seized,
+Well fitted to his gripe, his ponderous spear...
+  5. ...Gods;
+But if thou be of men, and feed on bread170
+Of earthly growth, draw nigh, that with a stroke
+Well-aim’d, I may at once cut short thy days...
+
+--------------------
+
+Character: Hear
+Mentions: 19
+Possible Traits: divine, brave
+Sample contexts:
+  1. ...Hear yet again...
+  2. ...Thou prov’dst propitious to my first request,
+Hast honor’d me, and punish’d sore the Greeks;
+Hear yet thy servant’s prayer; take from their host560
+At once the loathsome pestilence away...
+  3. ...Hear the Chief...
+  4. ...Hear me, ye Trojans, and ye Greeks mail-arm’d,100
+While I shall publish in your ears the words
+Of Alexan...
+  5. ...Hear now me also, on whose aching heart
+These woes have heaviest fallen...
+
+--------------------
+
+Character: Lycaon
+Mentions: 19
+Possible Traits: brave, beautiful
+Sample contexts:
+  1. ...Rich were they
+And led by Pandarus, Lycaon’s son,
+Whom Phœbus self graced with the bow he bore...
+  2. ...d390
+His polish’d greaves with silver studs secured;
+His brother’s corselet to his breast he bound,
+Lycaon’s, apt to his own shape and size,
+And slung athwart his shoulders, bright emboss’d,
+His brazen swor...
+  3. ...[4] Ere long she found
+The valiant son illustrious of Lycaon,
+Standing encompass’d by his dauntless troops,
+Broad-shielded warriors, from Æsepus’ stream105
+His...
+  4. ...Brave offspring of Lycaon, is there hope
+That thou wilt hear my counsel...
+  5. ...When him Lycaon’s son illustrious saw
+Scouring the field, and from before his face115
+The ranks dispersing wide, at...
+
+--------------------
+
+Character: Heaven
+Mentions: 18
+Possible Traits: None identified
+Sample contexts:
+  1. ...I cannot deliver these volumes to the public without feeling emotions of
+gratitude toward Heaven, in recollecting how often this corrected Work
+has appeared to me an instrument of Divine mercy, to...
+  2. ...The book concludes with an account of what passed in
+Heaven on that occasion...
+  3. ...s in strife and blood,
+And at all times; yet valor is no ground
+Whereon to boast, it is the gift of Heaven
+Go, get ye back to Phthia, thou and thine...
+  4. ...485
+Haste hence to Heaven, and if thy word or deed
+Hath ever gratified the heart of Jove,
+With earnest suit press him on my b...
+  5. ...But when the twelfth fair morrow streak’d the East,
+Then all the everlasting Gods to Heaven
+Resorted, with the Thunderer at their head,
+And Thetis, not unmindful of her son,610
+Prom the salt...
+
+--------------------
+
+Character: Within
+Mentions: 18
+Possible Traits: swift
+Sample contexts:
+  1. ...445
+So prayed he weeping, whom his mother heard
+Within the gulfs of Ocean where she sat
+Beside her ancient sire...
+  2. ...Her also next,
+Hovering and clamoring, he by the wing
+Within his spiry folds drew, and devoured...
+  3. ...The Thracians (all whom Hellespont includes
+Within the banks of his swift-racing tide)1030
+Heroic Acamas and Pirous led...
+  4. ...So spake the godlike monarch, and disposed
+Within the royal chariot all the lambs;
+Then, mounting, check’d the reins; Antenor next370
+Ascended, and t...
+  5. ...Them fallen in fight725
+Ajax the vast, touch’d with compassion saw;
+Within small space he stood, his glittering spear
+Dismiss’d, and pierced Amphius...
+
+--------------------
+
+Character: Immortal
+Mentions: 18
+Possible Traits: divine, mortal, swift
+Sample contexts:
+  1. ...oke from every tent arose,
+The host their food preparing; next, his God480
+Each man invoked (of the Immortals him
+Whom he preferr’d) with sacrifice and prayer
+For safe escape from danger and from death...
+  2. ...ew them into order just,
+With whom Minerva azure-eyed advanced,
+The inestimable Ægis on her arm,540
+Immortal, unobnoxious to decay
+A hundred braids, close twisted, all of gold,
+Each valued at a hundred beeves...
+  3. ...now
+Both Gods and men; should, therefore, other God
+Approach to try thee, fight not with the powers
+Immortal; but if foam-born Venus come,
+Her spare not...
+  4. ...Fear not this Mars,[22] nor fear thou other power
+Immortal, but be confident in me...
+  5. ...t1030
+Beside Saturnian Jove; wo fill’d his heart;
+He show’d fast-streaming from the wound his blood
+Immortal, and impatient thus complain’d...
+
+--------------------
+
+Character: Scamander
+Mentions: 18
+Possible Traits: None identified
+Sample contexts:
+  1. ...They overspread Scamander’s grassy vale,
+Myriads, as leaves, or as the flowers of spring...
+  2. ...She said, and from the fight conducted forth
+The impetuous Deity, whom on the side
+She seated of Scamander deep-embank’d...
+  3. ...Eurypylus, Evemon’s son, the brave
+Hypsenor slew; Dolopion was his sire,
+Priest of Scamander, reverenced as a God...
+  4. ...But when at Troy and at the confluent streams
+Of Simoïs and Scamander they arrived,920
+There Juno, white-arm’d Goddess, from the yoke
+Her steeds releasing, them in gathe...
+  5. ...Many of our host
+Lie slain, whose blood sprinkles, in battle shed,
+The banks of smooth Scamander, and their souls
+Have journey’d down into the realms of death...
+
+--------------------
+
+Character: Came
+Mentions: 18
+Possible Traits: swift
+Sample contexts:
+  1. ...690
+Came Agamemnon with a hundred ships,
+Exulting in his powers; more numerous they,
+And more illustrious fa...
+  2. ...Like a simple girl
+Came forth Amphimachus with gold bedight,
+But him his trappings from a woful death1070
+Saved not, when w...
+  3. ...d united force
+Essay’d to check the steeds; astonishment
+Seized both; Atrides with a lion’s rage155
+Came on, and from the chariot thus they sued...
+  4. ...e Scæan gate
+Arrived, the Trojans halted, waiting there
+The rearmost fugitives; they o’er the field
+Came like a herd, which in the dead of night
+A lion drives; all fly, but one is doom’d210
+To death inevi...
+  5. ...Then Hector from his chariot at a leap255
+Came down all arm’d, and, shaking his bright spears,
+Ranged every quarter, animating loud
+The legions, a...
+
+--------------------
+
+Character: Machaon
+Mentions: 18
+Possible Traits: None identified
+Sample contexts:
+  1. ...echalia, town895
+Of Eurytus Oechalian-born, came forth
+Their warlike youth by Podalirius led
+And by Machaon, healers both expert
+Of all disease, and thirty ships were theirs...
+  2. ...Menelaus is
+wounded, and Agamemnon having consigned him to the care of Machaon,
+goes forth to perform the duties of commander-in-chief, in the encouragement
+of his host to battle...
+  3. ...Haste, call hither quick
+The son of Æsculapius, leech renown’d,
+The prince Machaon...
+  4. ...ey’d,
+But through the Greeks bright-arm’d his course began
+The Hero seeking earnest on all sides235
+Machaon...
+  5. ...245
+So saying, he roused Machaon, who his course
+Through the wide host began...
+
+--------------------
+
+Character: Alexander
+Mentions: 18
+Possible Traits: beautiful, divine
+Sample contexts:
+  1. ...When, host to host opposed, full nigh they stood,
+Then Alexander[3] in the Trojan van
+Advanced was seen, all beauteous as a God;20
+His leopard’s skin, his falchion...
+  2. ...30
+So Menelaus at the view rejoiced
+Of lovely Alexander, for he hoped
+His punishment at hand...
+  3. ...shake under him; with cautious step40
+He slow retires; fear blanches cold his cheeks;
+So beauteous Alexander at the sight
+Of Atreus’ son dishearten’d sore, the ranks
+Of haughty Trojans enter’d deep again:
+Him...
+  4. ...[6]
+Then godlike Alexander thus replied...
+  5. ...Hear me, ye Trojans, and ye Greeks mail-arm’d,100
+While I shall publish in your ears the words
+Of Alexander, author of our strife...
+
+--------------------
+
+Character: Pierced
+Mentions: 18
+Possible Traits: None identified
+Sample contexts:
+  1. ...ar
+Sent forth, and on his smooth shield’s surface struck410
+The son of Atreus, but the brazen guard
+Pierced not, for at the disk, with blunted point
+Reflex, his ineffectual weapon stay’d...
+  2. ...Tlepolemus with his long lance the thigh
+Pierced of Sarpedon; sheer into his bone785
+He pierced him, but Sarpedon’s father, Jove,
+Him rescued even o...
+  3. ...s targe
+Despoil’d him; Paris, arching quick his bow,
+No devious shaft dismiss’d, but his right foot
+Pierced through the sole, and fix’d it to the ground...
+  4. ...ompass’d about575
+By Trojans, as the lynxes in the hills,
+Adust for blood, compass an antler’d stag
+Pierced by an archer; while his blood is warm
+And his limbs pliable, from him he ’scapes;
+But when the feat...
+  5. ...b’d, dispatch’d
+By Paris, Helen’s mate, against the Chief
+Machaon warring with distinguish’d force,
+Pierced his right shoulder...
+
+--------------------
+
+Character: Turn
+Mentions: 18
+Possible Traits: swift
+Sample contexts:
+  1. ...Turn, turn, ye Trojans...
+  2. ...He to flight
+Turn’d foremost, when the monarch in his spine50
+Between the shoulder-bones his spear infixt,
+And urged...
+  3. ...und his helmet raised
+Hair-crested; his Andromache, at once
+Obedient, to her home repair’d, but oft
+Turn’d as she went, and, turning, wept afresh...
+  4. ...180
+So saying, he through the fugitives his steeds
+Turn’d swift to flight...
+  5. ...the nerve355
+Dispatch’d at Hector, with impatience fired
+To pierce him; but again his weapon err’d
+Turn’d by Apollo, and the bosom struck
+Of Archeptolemus, his rapid steeds
+To battle urging, Hector’s cha...
+
+--------------------
+
+Character: Sleep
+Mentions: 17
+Possible Traits: swift, noble
+Sample contexts:
+  1. ...Sleep’st thou...
+  2. ...But Phœnix in the tent
+Sleeps of Achilles, who his stay desired,
+That on the morrow, if he so incline,
+The hoary warrior may att...
+  3. ...But if thy mind, more capable, project
+Aught that may profit us (for thee it seems
+Sleep also shuns) arise, and let us both
+Visit the watch, lest, haply, overtoil’d115
+They yield to sleep,...
+  4. ...Nor Hector to his gallant host indulged
+Sleep, but convened the leaders; leader none
+Or senator of all his host he left355
+Unsummon’d, and his pu...
+  5. ...Arm’d as thou art,
+Sleep not...
+
+--------------------
+
+Character: Call
+Mentions: 17
+Possible Traits: swift, mortal, divine
+Sample contexts:
+  1. ...th well armed
+The Locrians; dwellers in Augeia some
+The pleasant, some of Opoëis possessed,
+Some of Calliarus; these Scarpha sent,640
+And Cynus those; from Bessa came the rest,
+From Tarpha, Thronius, and...
+  2. ...the plain,990
+Clear all around from all obstruction, stands
+An eminence high-raised, by mortal men
+Call’d Bateia, but the Gods the tomb
+Have named it of Myrinna swift in fight...
+  3. ...The Chiefs300
+Call thee, the Chiefs of Ilium and of Greece...
+  4. ...The King of men240
+Calls thee...
+  5. ...Not in vain
+His weapon flew, but on the field outstretch’d
+A spurious son of Priam, from the shores
+Call’d of Abydus famed for fleetest mares,595
+Democoon; him, for Leucus’ sake enraged,
+Ulysses through b...
+
+--------------------
+
+Character: Back
+Mentions: 17
+Possible Traits: swift, brave
+Sample contexts:
+  1. ...590
+Back fell the Trojans from before the face
+Dispersed of great Ulysses...
+  2. ...If after all, Jove purpose still to exalt
+The son of Tydeus, these shall bear us safe
+Back to the city...
+  3. ...Back flew the fiery steeds
+With swift recoil, and where he fell he died...
+  4. ...160
+
+Back to the fleet, Tydides...
+  5. ...Then shall it appear
+If Diomede the brave shall me compel
+Back to our walls, or I, his arms blood-stain’d,
+Torn from his breathless body, bear away...
+
+--------------------
+
+Character: Hence
+Mentions: 16
+Possible Traits: None identified
+Sample contexts:
+  1. ...Hence it has happened,
+that although the public have long been in possession of an English Homer
+by a poe...
+  2. ...Hence back to wind-swept Ilium I return,
+Unable to sustain the sight, my son
+With warlike Menelaüs match’...
+  3. ...Henceforth thou art not worthy to be deem’d
+Son of Oenides, Tydeus famed in arms...
+  4. ...re convened
+The bright-haired matrons of the city seek470
+To soothe the awful Goddess; but she went
+Hence to the tower of Troy: for she had heard
+That the Achaians had prevail’d, and driven
+The Trojans to...
+  5. ...Hence, in peculiar, both to speak and hear
+Become thy duty, and the best advice,120
+By whomsoever offer’d...
+
+--------------------
+
+Character: Mr
+Mentions: 16
+Possible Traits: None identified
+Sample contexts:
+  1. ...Mr...
+  2. ...I number myself among the warmest admirers of Mr...
+  3. ...o in Homer,
+and that the matter not found in me, how much soever he may admire
+it, is found only in Mr...
+  4. ...out due acknowledgments to the best critic in
+Homer I have ever met with, the learned and ingenious Mr...
+  5. ...Footnote:
+
+Some of the few notes subjoined to my translation of the Odyssey are by Mr...
+
+--------------------
+
+Character: Powers
+Mentions: 16
+Possible Traits: divine, mortal
+Sample contexts:
+  1. ...Else, if my glorious hands
+Once reach thee, the Olympian Powers combined
+To rescue thee, shall interfere in vain...
+  2. ...But through the courts of Jove the heavenly Powers
+All felt displeasure; when to them arose
+Vulcan, illustrious artist, who with speech
+Conciliatory i...
+  3. ...The mighty work
+As in defiance of the Immortal Powers10
+Had risen, and could not therefore long endure...
+  4. ...had fallen, for on the heights
+Olympian over-arch’d with clouds of gold
+He sat, where sat the other Powers divine,
+Prisoners together of the will of Jove...
+  5. ...ght hand on the glebe
+All-teeming, lay thy other on the face
+Of the flat sea, that all the Immortal Powers325
+Who compass Saturn in the nether realms
+May witness, that thou givest me for a bride
+The younger...
+
+--------------------
+
+Character: Rush
+Mentions: 16
+Possible Traits: fierce, swift, wrathful
+Sample contexts:
+  1. ...Rush into the throng; by force210
+Detain them of thy soothing speech, ere yet
+All launch their oary bark...
+  2. ...[8]
+With such authority the troubled host
+He sway’d; they, quitting camp and fleet again
+Rush’d back to council; deafening was the sound
+As when a billow of the boisterous deep250
+Some broad be...
+  3. ...Rush on, ye Trojans, spur your coursers hard...
+  4. ...Then Diomede on him
+Rush’d furious in his turn, and Pallas plunged
+The bright spear deep into his cinctured waist
+Dire was t...
+  5. ...Then, Diomede, unaided as he was,
+Rush’d ardent to the vanward, and before
+The steeds of the Neleian sovereign old120
+Standing, in accents...
+
+--------------------
+
+Character: Sent
+Mentions: 16
+Possible Traits: brave
+Sample contexts:
+  1. ...Their confederate powers
+Sent Amphigenia, Cyparissa veiled
+With broad redundance of funereal shades,725
+Pteleos and Helos, and of...
+  2. ...ster sacred isles
+The Echinades, whose opposite aspect765
+Looks toward Elis o’er the curling waves,
+Sent forth their powers with Meges at their head,
+Brave son of Phyleus, warrior dear to Jove...
+  3. ...th the youth
+Of Rhytius him obey’d; nor these were all,
+But others from her hundred cities Crete795
+Sent forth, all whom Idomeneus the brave
+Commanded, with Meriones in arms
+Dread as the God of battles bl...
+  4. ...lagonians; dwellers they
+In Sesamus and in Cytorus were,
+And by the stream Parthenius; Cromna these
+Sent forth, and those Ægialus on the lip
+And margin of the land, and some, the heights1045
+Of Erythini,...
+  5. ...First, Alexander his long-shadow’d spear
+Sent forth, and on his smooth shield’s surface struck410
+The son of Atreus, but the brazen guard
+Pierced...
+
+--------------------
+
+Character: Thoas
+Mentions: 16
+Possible Traits: swift, noble
+Sample contexts:
+  1. ...780
+From forty ships, Thoas, Andræmon’s son,
+Had landed his Ætolians; for extinct
+Was Meleager, and extinct the house
+Of Oeneus...
+  2. ...Nor Pirus long survived; him through the breast625
+Above the pap, Ætolian Thoas pierced,
+And in his lungs set fast the quivering spear...
+  3. ...Then Thoas swift approach’d, pluck’d from the wound
+His stormy spear, and with his falchion bright
+Gashing his...
+  4. ...His Thracians hairy-scalp’d[19] so round about
+Encompassed, that though bold and large of limb
+Were Thoas, from before them him they thrust
+Staggering and reeling in his forced retreat...
+  5. ...Evæmon’s noble offspring next appear’d
+Eurypylus; Andræmon’s son the next195
+Thoas; and last, Ulysses, glorious Chief...
+
+--------------------
+
+Character: Anchises
+Mentions: 16
+Possible Traits: beautiful, strong, brave
+Sample contexts:
+  1. ...Æneas, (on the hills of Ida him
+The lovely Venus to Anchises bore,1000
+A Goddess by a mortal man embraced)
+Led the Dardanians; but not he alone;
+Archilochus wit...
+  2. ...aon’s offspring one,
+Bow-practised Pandarus; with whom appears
+Æneas; he who calls the mighty Chief
+Anchises father, and whom Venus bore...
+  3. ...Anchises, King of men, clandestine them310
+Obtain’d, his mares submitting to the steeds
+Of King Laomedon...
+  4. ...Had not Jove’s daughter Venus quick perceived360
+His peril imminent, whom she had borne
+Herself to Anchises pasturing his herds...
+  5. ...The fourth, Anchises’ mighty son controll’d,
+Æneas; under him Antenor’s sons,125
+Archilochus and Acamas, advanced,
+Adept...
+
+--------------------
+
+Character: Queen
+Mentions: 16
+Possible Traits: None identified
+Sample contexts:
+  1. ...A seat
+For Helen, daughter of Jove Ægis-arm’d,
+To Paris opposite, the Queen of smiles
+Herself disposed; but with averted eyes
+She sat before him, and him keen reproach’d...
+  2. ...He ceased; the Queen, her palace entering, charged
+Her maidens; they, incontinent, throughout350
+All Troy convened the m...
+  3. ...My mother, Queen of the well-wooded realm
+Of Hypoplacian Thebes, her hither brought520
+Among his other spoils, he lo...
+  4. ...285
+  Then answer thus the tranquil Sleep returned
+Great Saturn’s daughter, awe-inspiring Queen...
+  5. ...Her worshiping the golden-shafted Queen
+Diana, in full choir, with song and dance,
+The valiant Argicide[6] beheld and loved...
+
+--------------------
+
+Character: Agenor
+Mentions: 16
+Possible Traits: brave
+Sample contexts:
+  1. ...Him so employ’d
+Dauntless Agenor mark’d, and as he stoop’d,555
+In his unshielded flank a pointed spear
+Implanted deep; he languid su...
+  2. ...damas, Æneas raised70
+To godlike honors in all Trojan hearts,
+And Polybus, with whom Antenor’s sons
+Agenor, and young Acamas advanced...
+  3. ...115
+Paris, Alcathoüs, and Agenor led
+The second band, and, sons of Priam both,
+Deïphobus and Helenus, the third;
+With them was seen...
+  4. ...On the other side
+His aids Æneas call’d, with eyes toward
+Paris, Deiphobus, Agenor, turn’d,
+His fellow-warriors bold; them follow’d all600
+Their people as the pastured flock the ram...
+  5. ...nd
+Retired, his arm dependent at his side,
+And trailing, as he went, the ashen beam;725
+There, bold Agenor from his hand the lance
+Drew forth, then folded it with softest wool
+Around, sling-wool, and borrow...
+
+--------------------
+
+Character: Slain
+Mentions: 16
+Possible Traits: brave, swift
+Sample contexts:
+  1. ...the flocks,565
+And thence they named him; but his parents’
+He lived not to requite, in early youth
+Slain by the spear of Ajax famed in arms...
+  2. ...Opheltius fell and Dresus, by the hand
+Slain of Euryalus, who, next, his arms
+On Pedasus and on Æsepus turned25
+Brethren and twins...
+  3. ...—And Hector had himself long since his life
+Resign’d and rage together, by the Greeks
+Slain under Ilium’s walls, but Jove, my sire,
+Mad counsels executing and perverse,415
+Me counterworks in...
+  4. ...Their master lies
+Slain by the valiant Diomede, with twelve
+The noblest of his warriors at his side,
+A thirteenth[20] also,...
+  5. ...Many a Trojan shall we leave behind280
+Slain by the Grecians in their fleet’s defence...
+
+--------------------
+
+Character: Even
+Mentions: 16
+Possible Traits: brave
+Sample contexts:
+  1. ...labor hard, and after sack
+Of Thebes and of Lyrnessus, where he slew845
+Two mighty Chiefs, sons of Evenus both,
+Epistrophus and Mynes, her he mourn’d,
+And for her sake self-prison’d in his fleet
+And idle...
+  2. ...others accept
+Even for a brother slain, or for a son
+Due compensation;[18] the delinquent dwells790
+Secure at home, an...
+  3. ...n mountain-bred,
+After long fast, by impulse of his heart
+Undaunted urged, seeks resolute the flock
+Even in the shelter of their guarded home;365
+He finds, perchance, the shepherds arm’d with spears,
+And...
+  4. ...cessive fears
+Feels he, but seated once in ambush, deems
+Time tedious till the bloody fight begin;)
+Even there, thy courage should no blame incur...
+  5. ...se flesh the spear
+Can penetrate, or rocky fragment bruise;
+In standing fight Ajax would not retire
+Even before that breaker of the ranks395
+Achilles, although far less swift than he...
+
+--------------------
+
+Character: Scholiast
+Mentions: 16
+Possible Traits: None identified
+Sample contexts:
+  1. ...[The Scholiast in Villoisson calls it
+
+φυσικον
+τινα
+και
+μετριον
+γελωτα
+a natural and moderate laughter...
+  2. ...It differs from those of Clarke, Eustathius, and
+another Scholiast quoted by Clarke, but seems to suit the context much
+better than either...
+  3. ...Footnotes for Book XVI:
+
+[This translation of
+
+δνοφερον
+is warranted by the Scholiast, who paraphrases
+it thus:
+
+
+μετα
+δονησεως
+φερομενον...
+  4. ...Which is explained by the Scholiast
+in Villoisson to signify—advancing with quick, short steps, and at the same
+time covering the feet...
+  5. ...But
+the Scholiast explains the expression thus—νεωστι
+τω
+διφωω
+επιβαντος...
+
+--------------------
+
+Character: Crete
+Mentions: 14
+Possible Traits: brave
+Sample contexts:
+  1. ...letus, with the youth
+Of Rhytius him obey’d; nor these were all,
+But others from her hundred cities Crete795
+Sent forth, all whom Idomeneus the brave
+Commanded, with Meriones in arms
+Dread as the God of ba...
+  2. ...Opposite appear
+The Cretans, and among the Chiefs of Crete
+stands, like a God, Idomeneus...
+  3. ...Him oft
+From Crete arrived, was Menelaüs wont280
+To entertain; and others now I see,
+Achaians, whom I could recall to...
+  4. ...Fight now as heretofore,310
+To whom Idomeneus of Crete replied,
+Atrides...
+  5. ...by a prophet warn’d, or taught
+By search and observation, in that part
+Each Ajax with Idomeneus of Crete,
+The sons of Atreus, and the valiant son
+Of Tydeus, have now thrice assail’d the town...
+
+--------------------
+
+Character: Pluto
+Mentions: 14
+Possible Traits: None identified
+Sample contexts:
+  1. ...houlder’s hollow mail220
+My shaft hath pierced him through, and him I deem’d
+Dismiss’d full sure to Pluto ere his time
+But he survives; whom therefore I at last
+Perforce conclude some angry Deity...
+  2. ...460
+Nor suffer’d Pluto less, of all the Gods
+Gigantic most, by the same son of Jove
+Alcides, at the portals of the dead
+Tr...
+  3. ...doom from this victorious arm,
+And, vanquish’d by my spear, shalt yield thy fame
+To me, thy soul to Pluto steed-renown’d...
+  4. ...Pluto alone
+Is found implacable and deaf to prayer,195
+Whom therefore of all Gods men hate the most...
+  5. ...she smite the earth, while on her knees
+Seated, she fill’d her bosom with her tears,
+And call’d on Pluto and dread Proserpine710
+To slay her son; nor vain was that request,
+But by implacable Erynnis heard...
+
+--------------------
+
+Character: Pandarus
+Mentions: 12
+Possible Traits: divine
+Sample contexts:
+  1. ...Rich were they
+And led by Pandarus, Lycaon’s son,
+Whom Phœbus self graced with the bow he bore...
+  2. ...Minerva descends
+for that purpose, and in the form of Laodocus, a son of Priam,
+exhorts Pandarus to shoot at Menelaus, and succeeds...
+  3. ...e form
+Taking of brave Laodocus, the son100
+Of old Antenor, throughout all the ranks
+Sought godlike Pandarus...
+  4. ...He kills Pandarus, who had
+violated the truce, and wounds first Venus and then Mars...
+  5. ...So boasted Pandarus...
+
+--------------------
+
+Character: Chryses
+Mentions: 8
+Possible Traits: None identified
+Sample contexts:
+  1. ...ed
+In all the host, and multitudes destroy’d,
+For that the son of Atreus had his priest
+Dishonored, Chryses...
+  2. ...Her, Apollo’s priest
+Old Chryses followed to Achaia’s camp,460
+That he might loose his daughter...
+  3. ...O Chryses...
+  4. ...[31] Each laved his hands
+And took the salted meal, and Chryses made
+His fervent prayer with hands upraised on high...
+  5. ...So Chryses prayed, whom Phœbus heard well-pleased;
+Then prayed the Grecians also, and with meal
+Sprinkling the...
+
+--------------------
+
+Character: Hecuba
+Mentions: 8
+Possible Traits: None identified
+Sample contexts:
+  1. ...he Trojans being closely pursued, Hector by the
+advice of Helenus enters Troy, and recommends it to Hecuba to go in
+solemn procession to the temple of Minerva; she with the matrons goes
+accordingly...
+  2. ...But for no Trojan sorrows yet to come
+So much I mourn, not e’en for Hecuba,
+Nor yet for Priam, nor for all the brave550
+Of my own brothers who shall kiss the dust,
+As for thy...
+  3. ...Asius he seem’d
+Equestrian Hector’s uncle, brother born
+Of Hecuba the queen, and Dymas’ son,
+Who on the Sangar’s banks in Phrygia dwelt...
+  4. ...of all my father’s sons
+Brought forth by Hecuba, I ever loved
+Thee most, but more than ever love thee now,
+Who hast not fear’d, seeing me, for my s...
+  5. ...495
+  So spake he weeping, and the citizens
+All sigh’d around; next, Hecuba began
+Amid the women, thus, her sad complaint...
+
+--------------------
+
+Character: Calchas
+Mentions: 7
+Possible Traits: None identified
+Sample contexts:
+  1. ...He spake and sat, when Thestor’s son arose
+Calchas, an augur foremost in his art,
+Who all things, present, past, and future knew,
+And whom his skill i...
+  2. ...By the son of Jove,
+Apollo, whom thou, Calchas, seek’st in prayer
+Made for the Danaï, and who thy soul105
+Fills with futurity, in all the host
+The...
+  3. ...On Calchas lowering, him he first address’d...
+  4. ...wait only till we learn
+If Calchas truly prophesied, or not;
+For well we know, and I to all appeal,
+Whom Fate hath not already snatch’...
+  5. ...We wondering stood, to see that strange portent
+Intrude itself into our holy rites,
+When Calchas, instant, thus the sign explain’d...
+
+--------------------
+
+Character: Talthybius
+Mentions: 7
+Possible Traits: None identified
+Sample contexts:
+  1. ...e while
+The son of Atreus from his threats denounced
+At first against Achilles, but command
+Gave to Talthybius and Eurybates
+His heralds, ever faithful to his will...
+  2. ...city sent in haste135
+Two heralds for the lambs, and to invite
+Priam; while Agamemnon, royal Chief,
+Talthybius to the Grecian fleet dismiss’d
+For a third lamb to Jove; nor he the voice
+Of noble Agamemnon disobe...
+  3. ...He ended, and his noble herald, next,225
+Bespake, Talthybius...
+  4. ...r hewn,
+Had not the messengers of Gods and men325
+The heralds wise, Idæus on the part
+Of Ilium, and Talthybius for the Greeks,
+Advancing interposed...
+  5. ...And let Talthybius throughout all the camp
+Of the Achaians, instant, seek a boar
+For sacrifice to Jove and to the Sun...
+
+--------------------
+
+Character: Thersites
+Mentions: 7
+Possible Traits: None identified
+Sample contexts:
+  1. ...Thersites is mutinous, and is chastised by Ulysses...
+  2. ...The host all seated, and the benches fill’d,
+Thersites only of loquacious tongue
+Ungovern’d, clamor’d mutinous; a wretch
+Of utterance prompt, but in coars...
+  3. ...Thus, mocking royal Agamemnon, spake
+Thersites...
+  4. ...Thersites...
+  5. ...[The extremest provocation is implied in this expression, which Thersites
+quotes exactly as he had heard it from the lips of Achilles...
+
+--------------------
+
+Character: Sparta
+Mentions: 6
+Possible Traits: None identified
+Sample contexts:
+  1. ...705
+From hollow Lacedæmon’s glen profound,
+From Phare, Sparta, and from Messa, still
+Resounding with the ring-dove’s amorous moan,
+From Brysia, from Augeia, from...
+  2. ...Either they abide
+In lovely Sparta still, or if they came,
+Decline the fight, by my disgrace abash’d
+And the reproaches which have fal...
+  3. ...Wouldst thou lure me, say,
+To some fair city of Mæonian name
+Or Phrygian, more remote from Sparta still...
+  4. ...ties me,
+Of all the earth, most interest and engage,
+Mycenæ for magnificence renown’d,60
+Argos, and Sparta...
+  5. ...hey, hand to hand, and spear to spear opposed,
+Stood threatening dreadful onset, when beside675
+The Spartan chief Antilochus appear’d...
+
+--------------------
+
+Character: Ithaca
+Mentions: 5
+Possible Traits: noble
+Sample contexts:
+  1. ...a melancholy opportunity of tracing his
+recent footsteps in the Field of Troy, and in the Palace of Ithaca...
+  2. ...From Ithaca, and from the lofty woods
+Of Neritus they came, and from the rocks
+Of rude Ægilipa...
+  3. ...235
+In him the son of old Laërtes know,
+Ulysses; born in Ithaca the rude,
+But of a piercing wit, and deeply wise...
+  4. ...Princess thou hast described him: hither once240
+The noble Ithacan, on thy behalf
+Ambassador with Menelaus, came:
+Beneath my roof, with hospitable fare
+Friendly I en...
+  5. ...Chromius fell,
+Alcander, Halius, Prytanis, and brave
+Noëmon; nor had these sufficed the Chief805
+Of Ithaca, but Lycians more had fallen,
+Had not crest-tossing Hector huge perceived
+The havoc; radiant to the...
+
+--------------------
+
+Character: Ceres
+Mentions: 5
+Possible Traits: None identified
+Sample contexts:
+  1. ...From Phylace, and from the flowery fields850
+Of Pyrrhasus, a land to Ceres given
+By consecration, and from Iton green,
+Mother of flocks; from Antron by the sea,
+And from the...
+  2. ...590
+As flies the chaff wide scatter’d by the wind
+O’er all the consecrated floor, what time
+Ripe Ceres[13] with brisk airs her golden grain
+Ventilates, whitening with its husk the ground;
+So grew the Ac...
+  3. ...High towering Telamonian Ajax yields390
+To no mere mortal by the common gift
+Sustain’d of Ceres, and whose flesh the spear
+Can penetrate, or rocky fragment bruise;
+In standing fight Ajax would no...
+  4. ...in Thebes produced
+The valiant Hercules; and though my son
+By Semele were Bacchus, joy of man;
+Nor Ceres golden-hair’d, nor high-enthroned390
+Latona in the skies, no—nor thyself
+As now I love thee, and my...
+  5. ...90
+I am thy guest also, who at thy own board
+Have eaten bread, and did partake the gift
+Of Ceres with thee on the very day
+When thou didst send me in yon field surprised
+For sale to sacred Lemnos,...
+
+--------------------
+
+Character: Hebe
+Mentions: 5
+Possible Traits: None identified
+Sample contexts:
+  1. ...Now, on the golden floor of Jove’s abode
+The Gods all sat consulting; Hebe them,
+Graceful, with nectar served;[1] they pledging each
+His next, alternate quaff’d from cups of...
+  2. ...Hebe to the chariot roll’d
+The brazen wheels,[18] and joined them to the smooth
+Steel axle; twice four s...
+  3. ...Him Hebe bathed, and with divine attire
+Graceful adorn’d; when at the side of Jove
+Again his glorious seat s...
+  4. ...ed and distorted Vulcan had
+thrust himself into an office at all other times administered either by Hebe
+or Ganymede...
+  5. ...Hebe puts on the
+wheels of Juno’s chariot, when he called for it in battle...
+
+--------------------
+
+Character: Bacchus
+Mentions: 5
+Possible Traits: None identified
+Sample contexts:
+  1. ...The nurses he
+Of brain-disturbing Bacchus down the steep
+Pursued of sacred Nyssa; they their wands
+Vine-wreathed cast all away, with an ox-go...
+  2. ...Bacchus plunged
+Meantime dismay’d into the deep, where him
+Trembling, and at the Hero’s haughty threats
+Con...
+  3. ...ele,
+Nor yet Alcmena, who in Thebes produced
+The valiant Hercules; and though my son
+By Semele were Bacchus, joy of man;
+Nor Ceres golden-hair’d, nor high-enthroned390
+Latona in the skies, no—nor thyself
+As...
+  4. ...Hence the fable that Thetis received Bacchus into
+her bosom...
+  5. ...[Bacchus having hospitably entertained Vulcan in the island of Naxos,
+one of the Cyclades, received from him...
+
+--------------------
+
+Character: Hermes
+Mentions: 5
+Possible Traits: None identified
+Sample contexts:
+  1. ...hree again
+To thrust it back, although Achilles oft
+Would heave it to the door himself alone;)
+Then Hermes, benefactor of mankind,
+That bar displacing for the King of Troy,575
+Gave entrance to himself and t...
+  2. ...an immortal God
+Attends thee; I am Hermes, by command580
+Of Jove my father thy appointed guide...
+  3. ...So Hermes spake, and to the skies again
+Ascended...
+  4. ...tle sleep subdued,845
+Both Gods and chariot-ruling warriors lay,
+But not the benefactor of mankind,
+Hermes; him sleep seized not, but deep he mused
+How likeliest from amid the Grecian fleet
+He might deliver...
+  5. ...Hermes yoked
+Himself both mules and steeds, and through the camp
+Drove them incontinent, by all unseen...
+
+--------------------
+
+Character: Oceanus
+Mentions: 4
+Possible Traits: None identified
+Sample contexts:
+  1. ...For to the banks of the Oceanus,[28]
+Where Æthiopia holds a feast to Jove,[29]
+He journey’d yesterday, with whom the Gods525
+Went a...
+  2. ..., all alike;235
+For to the green earth’s utmost bounds I go,
+To visit there the parent of the Gods,
+Oceanus, and Tethys his espoused,
+Mother of all...
+  3. ...To the green earth’s end I go,
+To visit there the parent of the Gods360
+Oceanus, and Tethys his espoused,
+Mother of all...
+  4. ...[2]
+Nor of the Floods was any absent thence
+Oceanus except, or of the Nymphs10
+Who haunt the pleasant groves, or dwell beside
+Stream-feeding fountains,...
+
+--------------------
+
+Character: Rhea
+Mentions: 4
+Possible Traits: None identified
+Sample contexts:
+  1. ...They kindly from the hands
+Of Rhea took, and with parental care240
+Sustain’d and cherish’d me, what time from heaven
+The Thunderer hur...
+  2. ...They kindly from the hands
+Of Rhea took, and with parental care
+Sustain’d and cherish’d me;[9] to them I haste
+Their feuds innumerable...
+  3. ...We are three brothers; Saturn is our sire,
+And Rhea brought us forth; first, Jove she bore;
+Me next; then, Pluto, Sovereign of the shades...
+  4. ...Tethys
+being the same as Rhea...
+
+--------------------
+
+Character: Zeus
+Mentions: 4
+Possible Traits: None identified
+Sample contexts:
+  1. ...]
+The Iliad, in its connection, is, we all know, a glorification of Achilles
+by Zeus; for the Trojans only prevail because Zeus wishes to show that
+the reposing hero who sits in solitu...
+  2. ...That glorification is the
+will of Zeus; and in the spirit of the ancient mythus, a motive for it is assigned
+in a divine legend...
+  3. ...sea-goddess Thetis, who was, according to
+the Phthiotic mythus, wedded to the mortal Peleus, saved Zeus, by calling
+up the giant Briareus or Ægæon to his rescue...
+
+--------------------
+

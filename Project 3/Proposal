@@ -1,0 +1,19 @@
+## My Project Proposal
+
+**What I'm building:** A Flask web app that lets users enter a place name or address, geocodes it with Mapbox, finds the nearest MBTA station, and displays the result on a map.
+
+**Why I chose this:** I want to combine functions, API integration, data processing, and web development into one practical project that helps people find transit access quickly.
+
+**Core features:**
+- Browser form for entering an address or place name
+- Mapbox API geocoding to convert input into latitude/longitude
+- MBTA API search for the nearest transit stop or station
+- Results page showing the nearest MBTA stop, distance, and route information
+- Optional map display with the user location and nearest station pinned
+
+**What I don't know yet:**
+- How to organize Flask routes, templates, and API calls cleanly
+- How to store and use Mapbox and MBTA API keys securely
+- How to display a map and markers in the browser
+- How to handle ambiguous or invalid addresses gracefully
+- Whether to include only rail stations or also bus stops and other MBTA services

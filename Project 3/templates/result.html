@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nearest MBTA Station Results</title>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.19.0/mapbox-gl.css" rel="stylesheet" />
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f3f4f6; }
+        .page { max-width: 900px; margin: 32px auto; padding: 24px; background: #fff; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,.08); }
+        h1 { margin-top: 0; }
+        .summary { margin-bottom: 20px; }
+        .result-card { border: 1px solid #e5e7eb; border-radius: 12px; padding: 18px; background: #f9fafb; }
+        .result-card h2 { margin: 0 0 12px; }
+        .result-card p { margin: 8px 0; }
+        .map-container { margin-top: 24px; border-radius: 12px; overflow: hidden; height: 420px; }
+        .button-row { margin-top: 24px; }
+        .button-row a { text-decoration: none; color: #fff; background: #0056d3; padding: 12px 18px; border-radius: 8px; display: inline-block; }
+        .button-row a:hover { background: #0041a8; }
+        .badge { display: inline-block; margin: 4px 6px 0 0; padding: 6px 10px; border-radius: 999px; background: #e0f2fe; color: #0369a1; font-size: 0.95rem; }
+    </style>
+</head>
+<body>
+    <div class="page">
+        <h1>Nearest MBTA Station</h1>
+        <div class="summary">
+            <p>Search location: <strong>{{ place_name }}</strong></p>
+            <p>Query entered: <strong>{{ query }}</strong></p>
+        </div>
+
+        <div class="result-card">
+            <h2>{{ stop.name }}</h2>
+            <p><strong>Distance:</strong> {{ stop.distance_km }} km</p>
+            {% if stop.description %}
+                <p><strong>Description:</strong> {{ stop.description }}</p>
+            {% endif %}
+            <p><strong>Stop coordinates:</strong> {{ stop.latitude }}, {{ stop.longitude }}</p>
+            {% if stop.routes %}
+                <p><strong>Routes:</strong></p>
+                <div>
+                    {% for route in stop.routes %}
+                        <span class="badge">{{ route }}</span>
+                    {% endfor %}
+                </div>
+            {% endif %}
+        </div>
+
+        <div class="map-container" id="map"></div>
+
+        <div class="button-row">
+            <a href="/">Search again</a>
+        </div>
+    </div>
+
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.19.0/mapbox-gl.js"></script>
+    <script>
+        mapboxgl.accessToken = '{{ mapbox_token }}';
+        const userLocation = [{{ user_lon }}, {{ user_lat }}];
+        const stopLocation = [{{ stop.longitude }}, {{ stop.latitude }}];
+
+        const map = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/mapbox/streets-v12',
+            center: userLocation,
+            zoom: 13
+        });
+
+        map.on('load', () => {
+            new mapboxgl.Marker({ color: '#2d6cdf' })
+                .setLngLat(userLocation)
+                .setPopup(new mapboxgl.Popup({ offset: 25 }).setText('Search location'))
+                .addTo(map);
+
+            new mapboxgl.Marker({ color: '#d91c1c' })
+                .setLngLat(stopLocation)
+                .setPopup(new mapboxgl.Popup({ offset: 25 }).setText('{{ stop.name }}'))
+                .addTo(map);
+
+            const bounds = new mapboxgl.LngLatBounds();
+            bounds.extend(userLocation);
+            bounds.extend(stopLocation);
+            map.fitBounds(bounds, { padding: 60 });
+        });
+    </script>
+</body>
+</html>

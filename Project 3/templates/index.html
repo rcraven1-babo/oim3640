@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nearest MBTA Station Finder</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f3f4f6; }
+        .page { max-width: 760px; margin: 40px auto; padding: 24px; background: #fff; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,.08); }
+        h1 { margin-top: 0; }
+        input[type=text] { width: calc(100% - 22px); padding: 10px; border: 1px solid #ccc; border-radius: 6px; }
+        button { padding: 12px 20px; border: none; border-radius: 6px; background: #0056d3; color: #fff; cursor: pointer; }
+        button:hover { background: #0041a8; }
+        .error { margin-top: 16px; color: #b91c1c; }
+        .hint { color: #4b5563; margin-bottom: 24px; }
+    </style>
+</head>
+<body>
+    <div class="page">
+        <h1>Find the Nearest MBTA Station</h1>
+        <p class="hint">Enter any address or place name. The app uses Mapbox geocoding, then finds the closest MBTA stop.</p>
+        <form action="/locate" method="post">
+            <input type="text" name="place" placeholder="Example: Fenway Park, Boston, MA" required />
+            <div style="margin-top: 18px;"><button type="submit">Find nearest MBTA stop</button></div>
+        </form>
+        {% if error %}
+            <div class="error">{{ error }}</div>
+        {% endif %}
+    </div>
+</body>
+</html>

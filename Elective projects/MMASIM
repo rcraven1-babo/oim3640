@@ -1,0 +1,281 @@
+import random
+import json
+import os
+from collections import defaultdict
+
+class Fighter:
+    def __init__(self, name, strength, speed, defense, stamina, special_ability=None):
+        self.name = name
+        self.strength = strength
+        self.speed = speed
+        self.defense = defense
+        self.stamina = stamina
+        self.max_stamina = stamina
+        self.special_ability = special_ability
+        self.special_used = False
+
+    def reset_stamina(self):
+        self.stamina = self.max_stamina
+        self.special_used = False
+
+    def get_power_level(self):
+        return (self.strength + self.speed + self.defense + self.stamina) // 4
+
+    def __str__(self):
+        return f"{self.name} (STR:{self.strength} SPD:{self.speed} DEF:{self.defense} STA:{self.stamina})"
+
+class MMASimulator:
+    def __init__(self):
+        self.fighters = self.create_fighters()
+        self.player_money = 1000
+        self.stats = defaultdict(int)
+        self.load_game_data()
+
+    def create_fighters(self):
+        return [
+            Fighter("The Destroyer", 95, 70, 85, 80, "Knockout Punch"),
+            Fighter("Speed Demon", 75, 95, 65, 85, "Lightning Strike"),
+            Fighter("Iron Wall", 80, 60, 95, 90, "Iron Defense"),
+            Fighter("Endurance King", 70, 75, 75, 100, "Second Wind"),
+            Fighter("Technique Master", 85, 85, 80, 75, "Precision Strike"),
+            Fighter("Wild Card", random.randint(60, 90), random.randint(60, 90),
+                   random.randint(60, 90), random.randint(60, 90), "Lucky Break"),
+            Fighter("Veteran Warrior", 88, 78, 82, 85, "Veteran Tactics"),
+            Fighter("Rising Star", 82, 88, 75, 80, "Momentum Build")
+        ]
+
+    def save_game_data(self):
+        data = {
+            'money': self.player_money,
+            'stats': dict(self.stats)
+        }
+        with open('mma_save.json', 'w') as f:
+            json.dump(data, f)
+
+    def load_game_data(self):
+        if os.path.exists('mma_save.json'):
+            try:
+                with open('mma_save.json', 'r') as f:
+                    data = json.load(f)
+                    self.player_money = data.get('money', 1000)
+                    self.stats = defaultdict(int, data.get('stats', {}))
+            except:
+                print("Could not load save file. Starting fresh.")
+
+    def display_fighters(self):
+        print("\n=== FIGHTER ROSTER ===")
+        for i, fighter in enumerate(self.fighters, 1):
+            print(f"{i}. {fighter}")
+            if fighter.special_ability:
+                print(f"   Special: {fighter.special_ability}")
+        print()
+
+    def select_fighter(self, prompt):
+        while True:
+            try:
+                choice = int(input(prompt)) - 1
+                if 0 <= choice < len(self.fighters):
+                    return self.fighters[choice]
+                else:
+                    print("Invalid choice. Please select a valid fighter.")
+            except ValueError:
+                print("Please enter a number.")
+
+    def place_bet(self, player_fighter, opponent_fighter):
+        print(f"\nYour fighter: {player_fighter.name} (Power: {player_fighter.get_power_level()})")
+        print(f"Opponent: {opponent_fighter.name} (Power: {opponent_fighter.get_power_level()})")
+
+        odds = self.calculate_odds(player_fighter, opponent_fighter)
+        print(f"Odds: {odds:.2f} to 1 (You win)")
+
+        while True:
+            try:
+                bet = int(input(f"How much do you want to bet? (You have ${self.player_money}) "))
+                if 0 < bet <= self.player_money:
+                    return bet
+                else:
+                    print("Invalid bet amount.")
+            except ValueError:
+                print("Please enter a valid number.")
+
+    def calculate_odds(self, fighter1, fighter2):
+        power1 = fighter1.get_power_level()
+        power2 = fighter2.get_power_level()
+        if power2 == 0:
+            return 1.0
+        return power2 / power1
+
+    def simulate_fight(self, fighter1, fighter2):
+        print(f"\n🏁 FIGHT START: {fighter1.name} vs {fighter2.name} 🏁")
+
+        # Reset stamina
+        fighter1.reset_stamina()
+        fighter2.reset_stamina()
+
+        round_num = 1
+        max_rounds = 5
+
+        while round_num <= max_rounds and fighter1.stamina > 0 and fighter2.stamina > 0:
+            print(f"\n--- Round {round_num} ---")
+            print(f"{fighter1.name}: {fighter1.stamina}/{fighter1.max_stamina} stamina")
+            print(f"{fighter2.name}: {fighter2.stamina}/{fighter2.max_stamina} stamina")
+
+            # Fighter 1's turn
+            damage1 = self.calculate_damage(fighter1, fighter2)
+            fighter2.stamina -= damage1
+            print(f"{fighter1.name} attacks for {damage1} damage!")
+
+            if fighter2.stamina <= 0:
+                break
+
+            # Fighter 2's turn
+            damage2 = self.calculate_damage(fighter2, fighter1)
+            fighter1.stamina -= damage2
+            print(f"{fighter2.name} attacks for {damage2} damage!")
+
+            # Special ability check
+            if not fighter1.special_used and random.random() < 0.3:
+                special_damage = self.use_special_ability(fighter1, fighter2)
+                fighter2.stamina -= special_damage
+
+            if not fighter2.special_used and random.random() < 0.3:
+                special_damage = self.use_special_ability(fighter2, fighter1)
+                fighter1.stamina -= special_damage
+
+            round_num += 1
+
+        # Determine winner
+        if fighter1.stamina > fighter2.stamina:
+            return fighter1, fighter2
+        elif fighter2.stamina > fighter1.stamina:
+            return fighter2, fighter1
+        else:
+            # Tie - random winner
+            return random.choice([(fighter1, fighter2), (fighter2, fighter1)])
+
+    def calculate_damage(self, attacker, defender):
+        # Base damage calculation
+        base_damage = attacker.strength // 10 + attacker.speed // 20
+
+        # Speed advantage
+        speed_diff = attacker.speed - defender.speed
+        if speed_diff > 0:
+            base_damage += speed_diff // 10
+
+        # Defense reduction
+        defense_reduction = defender.defense // 15
+        damage = max(1, base_damage - defense_reduction)
+
+        # Random factor
+        damage = int(damage * random.uniform(0.8, 1.2))
+
+        return damage
+
+    def use_special_ability(self, fighter, opponent):
+        if not fighter.special_ability or fighter.special_used:
+            return 0
+
+        fighter.special_used = True
+        damage = 0
+
+        print(f"🎯 {fighter.name} uses {fighter.special_ability}!")
+
+        if fighter.special_ability == "Knockout Punch":
+            damage = random.randint(20, 35)
+        elif fighter.special_ability == "Lightning Strike":
+            damage = random.randint(15, 25)
+        elif fighter.special_ability == "Iron Defense":
+            damage = 0  # Defensive ability
+            fighter.stamina += 10  # Heal instead
+            print(f"{fighter.name} gains 10 stamina from Iron Defense!")
+        elif fighter.special_ability == "Second Wind":
+            damage = 0
+            fighter.stamina = min(fighter.max_stamina, fighter.stamina + 15)
+            print(f"{fighter.name} recovers 15 stamina from Second Wind!")
+        elif fighter.special_ability == "Precision Strike":
+            damage = random.randint(18, 28)
+        elif fighter.special_ability == "Lucky Break":
+            damage = random.randint(10, 40)  # High variance
+        elif fighter.special_ability == "Veteran Tactics":
+            damage = random.randint(16, 24)
+        elif fighter.special_ability == "Momentum Build":
+            damage = random.randint(12, 20) + (fighter.max_stamina - fighter.stamina) // 5
+
+        if damage > 0:
+            print(f"Special ability deals {damage} damage!")
+
+        return damage
+
+    def display_stats(self):
+        print("\n=== YOUR STATS ===")
+        print(f"Money: ${self.player_money}")
+        print(f"Fights Won: {self.stats['wins']}")
+        print(f"Fights Lost: {self.stats['losses']}")
+        print(f"Total Bets: ${self.stats['total_bets']}")
+        print(f"Total Winnings: ${self.stats['total_winnings']}")
+        if self.stats['wins'] + self.stats['losses'] > 0:
+            win_rate = (self.stats['wins'] / (self.stats['wins'] + self.stats['losses'])) * 100
+            print(f"Win Rate: {win_rate:.1f}%")
+        print()
+
+    def play_game(self):
+        print("🎉 Welcome to MMA SIMULATOR! 🎉")
+        print("Bet on fighters and watch them battle!")
+
+        while True:
+            self.display_stats()
+
+            print("\nWhat would you like to do?")
+            print("1. Fight!")
+            print("2. View Fighters")
+            print("3. View Stats")
+            print("4. Quit")
+
+            choice = input("Enter your choice: ")
+
+            if choice == "1":
+                if self.player_money <= 0:
+                    print("You're broke! You can't bet anymore.")
+                    continue
+
+                self.display_fighters()
+                player_fighter = self.select_fighter("Select your fighter: ")
+
+                # Remove player fighter from available opponents
+                available_opponents = [f for f in self.fighters if f != player_fighter]
+                opponent = random.choice(available_opponents)
+
+                bet = self.place_bet(player_fighter, opponent)
+
+                winner, loser = self.simulate_fight(player_fighter, opponent)
+
+                if winner == player_fighter:
+                    winnings = int(bet * self.calculate_odds(player_fighter, opponent))
+                    self.player_money += winnings
+                    self.stats['wins'] += 1
+                    self.stats['total_winnings'] += winnings
+                    print(f"\n🎉 YOU WIN! You gained ${winnings}!")
+                else:
+                    self.player_money -= bet
+                    self.stats['losses'] += 1
+                    print(f"\n😞 YOU LOSE! You lost ${bet}.")
+
+                self.stats['total_bets'] += bet
+                self.save_game_data()
+
+            elif choice == "2":
+                self.display_fighters()
+
+            elif choice == "3":
+                self.display_stats()
+
+            elif choice == "4":
+                print("Thanks for playing MMA SIMULATOR!")
+                break
+
+            else:
+                print("Invalid choice. Please try again.")
+
+if __name__ == "__main__":
+    game = MMASimulator()
+    game.play_game()

@@ -1,0 +1,19 @@
+## My Project Proposal
+
+**What I'm building:** A character-based strategy fighting game where players bet money on battles between fantasy characters with different combat stats.
+
+**Why I chose this:** I want to explore game development concepts like probability, character balancing, and risk/reward mechanics while creating an engaging betting system that teaches strategic decision-making.
+
+**Core features:**
+- Character roster with unique stats (strength, speed, defense, special abilities)
+- Opponent selection and betting interface
+- Turn-based fight simulation with dice rolls and stat comparisons
+- Money management system with win/loss tracking
+- Leaderboard and statistics for player performance
+
+**What I don't know yet:**
+- How to balance character stats so fights feel fair but exciting
+- Best algorithm for simulating fights (dice-based vs calculation-based)
+- How to implement a money persistence system
+- UI/UX design for the betting and fight visualization
+- How to prevent gambling addiction features while keeping it fun
